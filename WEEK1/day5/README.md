@@ -1,86 +1,69 @@
 # AI Resume Screening & Candidate Ranking System
 
-An LLM-powered resume screening system that automatically analyzes resumes, extracts structured candidate information, compares candidates against a job description, and ranks them based on relevance.
+An LLM-powered Resume Screening System that automatically analyzes resumes, extracts structured candidate information, compares candidates against a job description, and ranks applicants based on their relevance.
 
-The project demonstrates how Large Language Models can automate parts of the recruitment pipeline using structured outputs with Pydantic.
+The project demonstrates how Large Language Models (LLMs), Prompt Engineering, and Pydantic can be combined to automate the first stage of the recruitment process.
 
 ---
 
-## Features
+# Features
 
 - Parse PDF and DOCX resumes
 - Extract structured candidate information using an LLM
-- Parse job descriptions
-- Compare resumes against job requirements
+- Parse any Job Description (JD)
+- Compare resumes against the JD
 - Generate candidate match scores
 - Explain why each score was assigned
-- Suggest improvements for each candidate
-- Rank candidates automatically
-- Supports multiple resumes in a single run
+- Highlight missing skills
+- Suggest candidate improvements
+- Rank all candidates automatically
+- Works for any job role by simply changing the Job Description
 
 ---
 
-## Workflow
-
-```text
-                Job Description
-                       │
-                       ▼
-              Parse Job Requirements
-                       │
-                       ▼
-        ┌─────────────────────────┐
-        │                         │
-        ▼                         ▼
- Read Resume 1              Read Resume 2 ...
-        │                         │
-        ▼                         ▼
- Structured Resume Extraction (LLM)
-        │
-        ▼
- Candidate Evaluation (LLM)
-        │
-        ▼
- Match Score
-        │
-        ▼
- Candidate Ranking
-```
-
----
-
-## Tech Stack
+# Tech Stack
 
 - Python 3.12
 - Groq API
 - Pydantic
-- python-dotenv
 - PyPDF
 - python-docx
+- python-dotenv
 - uv
 
 ---
 
-## Project Structure
+# Project Structure
 
 ```
-resume_parser.py
-resumes/
-    resume1.pdf
-    resume2.pdf
-    resume3.docx
-.env
-README.md
+resume-screener/
+│
+├── resume_parser.py
+├── resumes/
+│   ├── candidate1.pdf
+│   ├── candidate2.pdf
+│   └── candidate3.docx
+│
+├── .env.example
+├── README.md
+├── pyproject.toml
+└── uv.lock
 ```
 
 ---
 
-## Installation
+# Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/repository.git
+git clone https://github.com/yourusername/your-repository.git
+```
+
+Go inside the project
+
+```bash
+cd your-repository
 ```
 
 Create a virtual environment
@@ -96,7 +79,17 @@ Install dependencies
 uv sync
 ```
 
-Create a `.env` file
+---
+
+# Environment Variables
+
+Copy the example file
+
+```bash
+cp .env.example .env
+```
+
+Open `.env` and add your Groq API Key
 
 ```env
 GROQ_API_KEY=your_api_key_here
@@ -104,7 +97,61 @@ GROQ_API_KEY=your_api_key_here
 
 ---
 
-## Running
+# How to Use
+
+## Step 1
+
+Place all candidate resumes inside the `resumes/` folder.
+
+Example:
+
+```
+resumes/
+    Alice.pdf
+    Bob.docx
+    Charlie.pdf
+```
+
+---
+
+## Step 2
+
+Open `resume_parser.py`
+
+Locate the following variable:
+
+```python
+text = """
+Your Job Description Here
+"""
+```
+
+Replace it with the Job Description you want to evaluate resumes against.
+
+Example:
+
+```text
+Software Engineer
+
+Requirements
+
+• Python
+• Docker
+• AWS
+• SQL
+• REST APIs
+• Bachelor's Degree
+```
+
+If tomorrow you want to screen resumes for a Data Scientist, UI/UX Designer, HR Manager, Product Manager, or any other role, simply replace the Job Description with the new one.
+
+No other code changes are required.
+
+---
+
+## Step 3
+
+Run the project
 
 ```bash
 python resume_parser.py
@@ -112,110 +159,110 @@ python resume_parser.py
 
 ---
 
-## Example Output
+# Example Output
 
 ```
-Preprocessing: Resume1.pdf
+===========================
+TOP 2 CANDIDATES
+===========================
 
-Score: 72%
+John Doe - 91%
 
-Top Candidate
+Excellent Python experience
+Strong cloud background
+Matches 9 out of 10 required skills
 
-Name:
-Ashish Raj
+-----------------------------------
 
-Matching Skills:
-- Python
-- C++
-- AWS
-- Docker
-- Kubernetes
+Jane Smith - 84%
 
-Missing Skills:
-- SQL
-- Open Source Contributions
+Strong backend profile
+Missing Kubernetes experience
 
-Verdict:
-Strong technical profile with relevant DevOps experience.
+===========================
+LOWEST 2 CANDIDATES
+===========================
 
-------------------------------------
-
-Preprocessing: Resume2.pdf
-
-Score: 55%
-
-Verdict:
-Good programming foundation but lacks cloud and production experience.
+...
 ```
 
 ---
 
-## Structured Output
+# Workflow
 
-The project uses **Pydantic** to enforce a consistent schema returned by the LLM.
-
-Example:
-
-```json
-{
-  "candidate_name": "John Doe",
-  "matching_skills": [
-    "Python",
-    "Docker"
-  ],
-  "missing_important_skills": [
-    "AWS",
-    "CI/CD"
-  ],
-  "overall_match_percentage": 72,
-  "final_verdict": "...",
-  "improvement_pointers": [
-    "...",
-    "..."
-  ]
-}
+```
+                Job Description
+                        │
+                        ▼
+          Extract Job Requirements
+                        │
+                        ▼
+         Read Resume (PDF / DOCX)
+                        │
+                        ▼
+      Structured Resume Extraction
+                        │
+                        ▼
+      Compare Resume vs Job Description
+                        │
+                        ▼
+          Generate Match Score
+                        │
+                        ▼
+      Rank All Candidates
+                        │
+                        ▼
+         Display Best Candidates
 ```
 
 ---
 
-## Current Limitations
+# Supported Resume Formats
 
-- Depends on LLM quality
-- Uses prompt engineering instead of embeddings
-- Sequential resume processing
+- PDF
+- DOCX
+
+---
+
+# Current Limitations
+
+- Uses an LLM API (internet connection required)
 - Subject to API rate limits
-- Supports PDF and DOCX only
+- Sequential resume processing
+- Supports only PDF and DOCX
+- Job Description is currently provided directly in the source code
 
 ---
 
-## Future Improvements
+# Future Improvements
 
-- Resume embeddings using vector databases
-- Semantic search
-- Streamlit web interface
-- Batch processing with async requests
+- Streamlit Web UI
+- Upload Job Description from a text box or PDF
+- Export results to Excel/CSV
+- Batch asynchronous processing
 - Retry mechanism for API rate limits
-- ATS-style dashboard
-- Export results to CSV or Excel
+- Resume embeddings
+- Semantic Search
 - Docker deployment
+- REST API version
 
 ---
 
-## Learning Outcomes
+# Learning Outcomes
 
-This project demonstrates practical use of:
+This project demonstrates practical usage of
 
 - Prompt Engineering
 - Structured Outputs
 - Pydantic
-- LLM Pipelines
-- Resume Parsing
+- LLM APIs
 - Information Extraction
+- Resume Parsing
 - Candidate Ranking
 - Python Automation
 
 ---
 
-## License
+# License
 
 MIT License
