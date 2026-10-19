@@ -1,4 +1,5 @@
 import os
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 from langchain_core.prompts import PromptTemplate
@@ -11,14 +12,12 @@ from typing import Literal
 
 load_dotenv()
 
-model = ChatOpenAI(
-    model="openai/gpt-oss-20b",
-    api_key=os.getenv("NVIDIA_API_KEY"),
-    base_url="https://integrate.api.nvidia.com/v1",
+model = ChatGoogleGenerativeAI(
+    model="gemini-3.8-flash",
+    google_api_key=os.getenv("GEMINI_API_KEY"),
     temperature=0,
+    max_retries=2,
     timeout=120,
-    max_retries=1,
-    max_tokens=4096,
 )
 
 parser=StrOutputParser()
