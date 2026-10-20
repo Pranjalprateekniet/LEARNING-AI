@@ -1,0 +1,1382 @@
+food_code,food_name,food_group,calories,carb_g,protein_g,fat_g,freesugar_g,fibre_g,cholesterol_mg,serving_size_g,protein_calorie_ratio
+1,Palak Paneer,Vegetarian,175,11.67,10.50,12.83,2.33,3.50,29.17,100,0.06
+2,Chole Bhature,Vegetarian,355,53.25,11.83,17.75,5.92,7.10,0.00,100,0.03
+3,Butter Chicken,Non-Vegetarian,320,9.14,22.86,18.29,2.74,1.83,64.00,100,0.07
+4,Dal Tadka,Vegetarian,233,40.78,13.98,5.83,1.17,5.83,0.00,100,0.06
+5,Masala Dosa,Vegetarian,336,48.00,6.72,11.52,0.96,2.88,0.00,100,0.02
+6,Chicken Biryani,Non-Vegetarian,455,55.61,25.28,15.17,5.06,2.02,91.00,100,0.06
+7,Samosa,Vegetarian,230,27.60,4.60,9.20,3.68,4.60,0.00,100,0.02
+8,Paneer Tikka,Vegetarian,182,8.09,15.17,10.11,2.02,1.01,30.33,100,0.08
+9,Aloo Gobi,Vegetarian,154,20.53,5.13,6.16,1.03,5.13,0.00,100,0.03
+10,Mutton Rogan Josh,Non-Vegetarian,385,9.63,27.43,24.06,3.85,0.96,96.25,100,0.07
+11,Idli,Vegetarian,176,35.20,5.87,4.69,0.00,4.69,0.00,100,0.03
+12,Upma,Vegetarian,256,51.20,7.68,10.24,1.28,3.84,0.00,100,0.03
+13,Chicken Korma,Non-Vegetarian,328,11.25,23.43,18.74,3.75,0.94,70.29,100,0.07
+14,Chana Masala,Vegetarian,263,42.08,10.52,7.36,3.16,6.31,0.00,100,0.04
+15,Vegetable Biryani,Vegetarian,342,62.70,9.12,11.40,4.56,2.28,0.00,100,0.03
+16,Methi Thepla,Vegetarian,225,30.68,6.14,9.20,2.05,4.09,0.00,100,0.03
+17,Chicken Tikka,Non-Vegetarian,230,5.00,28.50,10.00,2.00,0.00,80.00,100,0.12
+18,Aloo Paratha,Vegetarian,314,44.86,5.38,8.97,2.69,3.59,0.00,100,0.02
+19,Keema Matar,Vegetarian,320,9.14,22.86,18.29,3.66,1.83,77.71,100,0.07
+20,Palak Chaat,Vegetarian,183,25.42,5.08,7.12,2.03,3.05,0.00,100,0.03
+21,Malai Kofta,Vegetarian,407,15.26,8.14,25.95,5.09,3.05,50.88,100,0.02
+22,Hyderabadi Biryani,Vegetarian,514,67.04,31.29,20.11,6.70,3.35,111.74,100,0.06
+23,Saag Aloo,Vegetarian,174,27.19,5.44,6.53,2.18,4.35,0.00,100,0.03
+24,Chicken Shawarma,Non-Vegetarian,342,14.66,27.85,17.59,4.89,2.93,73.29,100,0.08
+25,Methi Paratha,Vegetarian,236,35.91,6.16,8.21,3.08,4.10,0.00,100,0.03
+26,Kadhai Paneer,Vegetarian,290,19.33,11.60,17.40,3.87,1.93,29.00,100,0.04
+27,Masoor Dal,Vegetarian,195,32.50,13.00,3.25,0.00,5.42,0.00,100,0.07
+28,Chicken Pakora,Non-Vegetarian,295,19.67,19.67,14.75,2.95,1.97,68.83,100,0.07
+29,Chana Pulao,Vegetarian,338,48.29,11.59,9.66,3.86,3.86,0.00,100,0.03
+30,Prawn Curry,Non-Vegetarian,393,12.41,29.48,25.86,5.17,2.07,87.91,100,0.08
+31,Paneer Butter Masala,Vegetarian,390,21.08,10.54,26.88,5.27,3.16,63.24,100,0.03
+32,Dhokla,Vegetarian,180,36.00,7.20,4.80,1.20,6.00,0.00,100,0.04
+33,Palak Chana,Vegetarian,260,36.40,12.48,8.32,3.12,6.24,0.00,100,0.05
+34,Vegetable Pulao,Vegetarian,304,60.80,9.73,9.73,3.65,3.65,0.00,100,0.03
+35,Beef Curry,Non-Vegetarian,332,6.64,23.66,16.60,4.15,1.66,74.70,100,0.07
+36,Kachori,Vegetarian,232,36.91,5.27,8.44,4.22,3.16,0.00,100,0.02
+37,Khichdi,Vegetarian,234,40.95,11.70,7.02,2.34,5.85,0.00,100,0.05
+38,Butter Naan,Vegetarian,300,50.00,7.00,8.00,2.00,1.00,0.00,100,0.02
+39,Dal Makhani,Vegetarian,330,42.43,14.14,9.43,2.83,6.60,0.00,100,0.04
+40,Mutton Biryani,Non-Vegetarian,482,53.02,24.10,17.35,5.78,2.89,91.58,100,0.05
+41,Chutney Sandwich,Vegetarian,165,27.50,5.50,5.50,1.10,3.30,0.00,100,0.03
+42,Sev Puri,Vegetarian,208,34.67,4.62,9.24,2.31,4.62,0.00,100,0.02
+43,Shahi Paneer,Vegetarian,435,17.40,11.60,24.65,3.87,2.90,53.17,100,0.03
+44,Goat Curry,Vegetarian,385,11.55,26.95,24.06,5.78,1.93,81.81,100,0.07
+45,Dahi Puri,Vegetarian,195,27.30,4.87,6.82,1.95,3.90,0.00,100,0.03
+46,Pesarattu,Vegetarian,272,43.52,10.88,8.70,2.18,3.26,0.00,100,0.04
+47,Lassi,Vegetarian,174,29.00,5.80,6.96,3.48,0.00,17.40,100,0.03
+48,Bhindi Masala,Vegetarian,159,18.71,3.74,6.55,1.87,4.68,0.00,100,0.02
+49,Paneer Lababdar,Vegetarian,357,18.36,15.30,25.50,4.08,2.04,40.80,100,0.04
+50,Chicken Vindaloo,Non-Vegetarian,358,8.33,23.73,18.32,4.16,1.67,66.60,100,0.07
+51,Shahi Tukda,Vegetarian,364,41.60,6.24,20.80,8.32,3.12,26.00,100,0.02
+52,Lauki Kofta,Vegetarian,302,25.17,10.07,18.12,4.03,5.03,40.27,100,0.03
+53,Chana Dal,Vegetarian,241,38.34,15.34,5.48,1.10,6.57,0.00,100,0.06
+54,Masala Puri,Vegetarian,367,52.43,8.39,15.73,5.24,4.19,0.00,100,0.02
+55,Aloo Methi,Vegetarian,183,25.42,5.08,7.12,3.05,5.08,0.00,100,0.03
+56,Palak Paratha,Vegetarian,245,37.28,6.39,9.59,4.26,5.33,0.00,100,0.03
+57,Methi Malai Murg,Vegetarian,374,13.78,11.81,25.10,5.91,2.95,34.45,100,0.03
+58,Veg Kofta Curry,Vegetarian,410,25.63,10.25,26.14,7.18,6.15,51.25,100,0.03
+59,Suji Halwa,Vegetarian,252,40.32,5.04,8.06,6.05,7.06,0.00,100,0.02
+60,Veg Pulao,Vegetarian,337,61.78,10.11,10.11,4.49,4.49,0.00,100,0.03
+61,Besan Ladoo,Vegetarian,316,47.40,7.37,12.64,10.53,3.16,21.07,100,0.02
+62,Chilla,Vegetarian,148,19.73,7.89,3.95,2.96,2.96,0.00,100,0.05
+63,Chana Tikki,Vegetarian,240,33.60,6.72,7.68,2.88,4.80,0.00,100,0.03
+64,Paneer Bhurji,Vegetarian,314,20.19,22.43,20.19,4.49,2.24,44.86,100,0.07
+65,Tomato Rice,Vegetarian,362,62.06,8.27,10.34,5.17,3.10,0.00,100,0.02
+66,Dal Fry,Vegetarian,205,29.29,9.76,4.88,0.98,4.88,0.00,100,0.05
+67,Pulao,Vegetarian,333,57.23,8.33,9.37,4.16,3.12,0.00,100,0.03
+68,Khoya Mawa,Vegetarian,457,57.13,9.14,28.56,11.43,4.57,68.55,100,0.02
+69,Pakora,Vegetarian,307,35.82,8.19,15.35,6.14,4.09,0.00,100,0.03
+70,Boondi Raita,Vegetarian,154,17.11,4.28,5.13,1.71,2.57,0.00,100,0.03
+71,Sabudana Khichdi,Vegetarian,327,56.06,5.61,6.54,3.74,1.87,0.00,100,0.02
+72,Vegetable Khichdi,Vegetarian,280,44.80,13.44,8.96,3.36,5.60,0.00,100,0.05
+73,Laal Maas,Vegetarian,410,10.25,25.63,26.14,8.20,2.05,102.50,100,0.06
+74,Gajar Halwa,Vegetarian,299,37.38,6.41,16.02,8.54,5.34,26.70,100,0.02
+75,Malai Sandwich,Vegetarian,256,30.72,7.17,12.29,4.10,4.10,30.72,100,0.03
+76,Pineapple Raita,Vegetarian,158,23.17,4.21,6.32,3.16,5.27,0.00,100,0.03
+77,Shrikhand,Vegetarian,319,42.53,6.38,15.95,12.76,2.13,26.58,100,0.02
+78,Chole Tikki,Vegetarian,264,37.16,9.78,7.82,2.93,3.91,0.00,100,0.04
+79,Masala Khichdi,Vegetarian,308,48.13,8.66,7.70,3.85,5.78,0.00,100,0.03
+80,Patra,Vegetarian,212,31.80,5.30,8.48,2.12,4.24,0.00,100,0.03
+81,Idli Sambar,Vegetarian,258,46.44,6.19,6.19,2.06,5.16,0.00,100,0.02
+82,Moong Dal Chilla,Vegetarian,175,24.31,11.67,2.92,0.97,4.86,0.00,100,0.07
+83,Carrot Paratha,Vegetarian,236,35.91,6.16,8.21,3.08,5.13,0.00,100,0.03
+84,Kaju Katli,Vegetarian,295,35.60,5.09,15.26,10.17,4.07,20.34,100,0.02
+85,Veg Hakka Noodles,Vegetarian,356,55.94,7.12,12.21,5.09,4.07,0.00,100,0.02
+86,Shrimp Korma,Vegetarian,328,10.64,22.16,17.73,6.21,2.66,62.05,100,0.07
+87,Chana Chaat,Vegetarian,206,28.09,7.49,5.62,2.81,4.68,0.00,100,0.04
+88,Barfi,Vegetarian,315,45.00,5.63,16.88,9.00,4.50,22.50,100,0.02
+89,Dal Bhati,Vegetarian,271,36.13,10.84,6.32,2.71,4.52,0.00,100,0.04
+90,Vegetable Dosa,Vegetarian,340,48.57,7.77,11.66,2.91,3.89,0.00,100,0.02
+91,Chole Rice,Vegetarian,349,50.51,11.02,8.27,3.67,4.59,0.00,100,0.03
+92,Pineapple Kesari,Vegetarian,290,48.33,5.37,10.74,8.59,4.30,16.11,100,0.02
+93,Vegetable Samosa,Vegetarian,221,30.14,5.02,9.04,3.01,4.02,0.00,100,0.02
+94,Kesar Pista Kulfi,Vegetarian,346,39.54,5.93,17.79,11.86,2.97,34.60,100,0.02
+95,Aloo Gajar Methi,Vegetarian,220,38.70,7.46,11.54,5.72,4.28,10.18,100,0.03
+96,Masala Wontons,Vegetarian,300,38.81,7.38,11.52,5.75,4.29,9.93,100,0.03
+97,Chana Chole,Vegetarian,318,38.91,7.30,11.51,5.79,4.30,9.68,100,0.03
+98,Apple Kheer,Vegetarian,308,39.02,7.22,11.49,5.82,4.31,9.43,100,0.03
+99,Papdi Chaat,Vegetarian,241,39.13,7.14,11.47,5.86,4.32,9.18,100,0.03
+100,Vegetable Pakora,Vegetarian,296,39.24,7.06,11.45,5.89,4.33,8.93,100,0.02
+101,Laal Gobi Sabzi,Vegetarian,188,39.35,6.98,11.43,5.92,4.34,8.68,100,0.02
+102,Turai (Ridge Gourd) Sabzi,Vegetarian,137,39.46,6.90,11.41,5.96,4.35,8.43,100,0.02
+103,Aloo Methi,Vegetarian,183,39.57,6.82,11.39,5.99,4.36,8.17,100,0.02
+104,Amaranth Leaves (Chaulai) Sabzi,Vegetarian,87,39.67,6.74,11.37,6.03,4.38,7.92,100,0.02
+105,Kaddu Ki Sabzi (Pumpkin),Vegetarian,168,39.78,6.65,11.36,6.06,4.39,7.67,100,0.02
+106,Cluster Beans (Gawar) Sabzi,Vegetarian,183,39.89,6.57,11.34,6.10,4.40,7.42,100,0.02
+107,Bottle Gourd (lauki) with Moong Dal,Vegetarian,206,40.00,6.49,11.32,6.13,4.41,7.17,100,0.02
+108,Okra (Bhindi) Masala,Vegetarian,123,40.11,6.41,11.30,6.17,4.42,6.92,100,0.02
+109,Carrot and Peas Sabzi,Vegetarian,162,40.22,6.33,11.28,6.20,4.43,6.67,100,0.02
+110,Chili Paneer with Capsicum,Vegetarian,290,40.32,6.25,11.26,6.24,4.44,6.42,100,0.02
+111,Brinjal (Baingan) Bharta,Vegetarian,166,40.43,6.17,11.24,6.27,4.45,6.17,100,0.02
+112,Methi Thepla (Fenugreek Flatbread),Vegetarian,233,40.54,6.09,11.23,6.31,4.47,5.91,100,0.02
+113,Gobi (Cauliflower) Masala,Vegetarian,176,40.65,6.01,11.21,6.34,4.48,5.66,100,0.02
+114,Palak (Spinach) and Toor Dal,Vegetarian,185,40.76,5.93,11.19,6.38,4.49,5.41,100,0.02
+115,Shorba (Spinach Soup),Vegetarian,106,40.87,5.85,11.17,6.41,4.50,5.16,100,0.02
+116,Arbi (Colocasia) Masala,Vegetarian,188,40.98,5.77,11.15,6.45,4.51,4.91,100,0.02
+117,Chow Chow (Chayote) Sabzi,Vegetarian,183,41.08,5.69,11.13,6.48,4.52,4.66,100,0.02
+118,Kundru (Ivy Gourd) Masala,Vegetarian,162,41.19,5.60,11.11,6.52,4.53,4.41,100,0.02
+119,Palak Puri,Vegetarian,236,41.30,5.52,11.09,6.55,4.54,4.16,100,0.02
+120,Tomato Chutney with Bottle Gourd,Vegetarian,149,41.41,5.44,11.08,6.59,4.55,3.91,100,0.02
+121,Lauki (Bottle Gourd) and Masoor Dal,Vegetarian,230,41.52,5.36,11.06,6.62,4.57,3.66,100,0.02
+122,Chana and Spinach (Palak) Curry,Vegetarian,300,41.63,5.28,11.04,6.66,4.58,3.40,100,0.02
+123,Beetroot and Carrot Salad,Vegetarian,128,41.74,5.20,11.02,6.69,4.59,3.15,100,0.02
+124,Radish (Mooli) Paratha,Vegetarian,280,41.84,5.12,11.00,6.72,4.60,2.90,100,0.02
+125,Cabbage and Peas Sabzi,Vegetarian,182,41.95,5.04,10.98,6.76,4.61,2.65,100,0.02
+126,Green Beans and Potato Sabzi,Vegetarian,208,42.06,4.96,10.96,6.79,4.62,2.40,100,0.02
+127,Raw Mango and Spinach Salad,Vegetarian,99,42.17,4.88,10.95,6.83,4.63,2.15,100,0.02
+128,Mustard Greens (Sarson) Saag,Vegetarian,229,42.28,4.80,10.93,6.86,4.64,1.90,100,0.02
+129,Spinach (Palak) Paratha,Vegetarian,282,42.39,4.72,10.91,6.90,4.65,1.65,100,0.02
+130,Saag Aloo (Spinach and Potato),Vegetarian,252,42.49,4.64,10.89,6.93,4.67,1.40,100,0.02
+131,Bitter Gourd (Karela) Stir Fry,Vegetarian,154,42.60,4.55,10.87,6.97,4.68,1.14,100,0.02
+132,Chana Masala with Bottle Gourd,Vegetarian,260,42.71,4.47,10.85,7.00,4.69,0.89,100,0.02
+133,Karela (Bitter Gourd) with Onion,Vegetarian,171,42.82,4.39,10.83,7.04,4.70,0.64,100,0.02
+134,Chow Chow (Chayote) Salad,Vegetarian,95,42.93,4.31,10.81,7.07,4.71,0.39,100,0.02
+135,Chana Dal with Bottle Gourd,Vegetarian,215,43.04,4.23,10.80,7.11,4.72,0.14,100,0.02
+136,Green Mango and Cucumber Salad,Vegetarian,78,43.15,4.15,10.78,7.14,4.73,-0.11,100,0.02
+137,Aloo-Gobhi (Potato-Cauliflower),Vegetarian,212,43.25,4.07,10.76,7.18,4.74,-0.36,100,0.01
+138,Green Peas Pulao,Vegetarian,299,43.36,3.99,10.74,7.21,4.75,-0.61,100,0.01
+139,Tomato and Onion Salad,Vegetarian,75,43.47,3.91,10.72,7.25,4.77,-0.86,100,0.01
+140,Masala Lauki,Vegetarian,199,43.58,3.83,10.70,7.28,4.78,-1.12,100,0.01
+141,Toor Dal with Pumpkin,Vegetarian,217,43.69,3.75,10.68,7.32,4.79,-1.37,100,0.01
+142,Potato and Spinach Curry,Vegetarian,232,43.80,3.67,10.66,7.35,4.80,-1.62,100,0.01
+143,Chana and Cabbage Sabzi,Vegetarian,252,43.91,3.58,10.65,7.39,4.81,-1.87,100,0.01
+144,Spinach and Onion Roti,Vegetarian,256,44.01,3.50,10.63,7.42,4.82,-2.12,100,0.01
+145,Karela and Onion Stir Fry,Vegetarian,163,44.12,3.42,10.61,7.46,4.83,-2.37,100,0.01
+146,Radish (Mooli) and Moong Dal,Vegetarian,210,44.23,3.34,10.59,7.49,4.84,-2.62,100,0.01
+147,Aloo-Besan (Potato and Chickpea Flour) Paratha,Vegetarian,302,44.34,3.26,10.57,7.52,4.85,-2.87,100,0.01
+148,Spinach and Tomato Soup,Vegetarian,94,44.45,3.18,10.55,7.56,4.87,-3.12,100,0.01
+149,Methi and Aloo (Fenugreek and Potato) Curry,Vegetarian,220,44.56,3.10,10.53,7.59,4.88,-3.38,100,0.01
+150,Mixed Vegetable Pulao,Vegetarian,308,44.66,3.02,10.52,7.63,4.89,-3.63,100,0.01
+151,Paneer Tikka,Vegetarian,342,44.77,2.94,10.50,7.66,4.90,-3.88,100,0.01
+152,Chole Bhature with Soy Protein,Vegetarian,482,44.88,2.86,10.48,7.70,4.91,-4.13,100,0.01
+153,Tofu Stir-Fry with Vegetables,Vegan,320,44.99,2.78,10.46,7.73,4.92,-4.38,100,0.01
+154,Vegetable and Tofu Pulao,Vegan,392,45.10,2.70,10.44,7.77,4.93,-4.63,100,0.01
+155,Moong Dal with Quinoa,Vegetarian,313,45.21,2.62,10.42,7.80,4.94,-4.88,100,0.01
+156,Chana Dal and Brown Rice,Vegetarian,382,45.32,2.53,10.40,7.84,4.96,-5.13,100,0.01
+157,Lentil and Spinach Soup,Vegetarian,245,45.42,2.45,10.38,7.87,4.97,-5.38,100,0.01
+158,Grilled Tofu with Veggie Salad,Non-Vegetarian,304,45.53,2.37,10.37,7.91,4.98,-5.63,100,0.01
+159,Masoor Dal with Amaranth,Vegetarian,324,45.64,2.29,10.35,7.94,4.99,-5.89,100,0.01
+160,Vegetable Biryani with Soy Protein,Vegetarian,454,45.75,2.21,10.33,7.98,5.00,-6.14,100,0.01
+161,Chicken Breast with Sweet Potato,Non-Vegetarian,430,45.86,2.13,10.31,8.01,5.01,-6.39,100,0.01
+162,Grilled Salmon with Broccoli,Vegetarian,404,45.97,2.05,10.29,8.05,5.02,-6.64,100,0.01
+163,Beef Stir-Fry with Vegetables,Non-Vegetarian,402,46.08,1.97,10.27,8.08,5.03,-6.89,100,0.01
+164,Chicken Korma with Brown Rice,Non-Vegetarian,542,46.18,1.89,10.25,8.12,5.04,-7.14,100,0.01
+165,Paneer Butter Masala with Brown Rice,Vegetarian,525,46.29,1.81,10.24,8.15,5.06,-7.39,100,0.01
+166,Chickpea and Spinach Stir Fry,Vegetarian,314,46.40,1.73,10.22,8.19,5.07,-7.64,100,0.01
+167,Grilled Tofu with Quinoa,Vegan,386,46.51,1.65,10.20,8.22,5.08,-7.89,100,0.01
+168,Palak (Spinach) and Moong Dal,Vegetarian,248,46.62,1.57,10.18,8.26,5.09,-8.15,100,0.01
+169,Quinoa and Lentil Salad,Vegetarian,362,46.73,1.48,10.16,8.29,5.10,-8.40,100,0.01
+170,Tempeh and Tofu Stir-Fry,Vegan,394,46.83,1.40,10.14,8.32,5.11,-8.65,100,0.01
+171,Vegetable Protein-Packed Soup,Vegetarian,332,46.94,1.32,10.12,8.36,5.12,-8.90,100,0.01
+172,Chicken Shawarma Wrap,Non-Vegetarian,480,47.05,1.24,10.10,8.39,5.13,-9.15,100,0.01
+173,Mutton Seekh Kebab,Non-Vegetarian,450,47.16,1.16,10.09,8.43,5.14,-9.40,100,0.01
+174,Grilled Paneer with Veggie Salad,Non-Vegetarian,334,47.27,1.08,10.07,8.46,5.16,-9.65,100,0.00
+175,Quinoa and Chickpea Salad,Vegetarian,330,47.38,1.00,10.05,8.50,5.17,-9.90,100,0.00
+176,Grilled Chicken with Avocado,Non-Vegetarian,394,47.49,0.92,10.03,8.53,5.18,-10.15,100,0.00
+177,Vegan Tempeh Stir-Fry with Veggies,Non-Vegetarian,402,47.59,0.84,10.01,8.57,5.19,-10.41,100,0.00
+178,Tofu and Vegetable Stew,Vegan,330,47.70,0.76,9.99,8.60,5.20,-10.66,100,0.00
+179,Chana Chaat with Avocado,Vegetarian,286,47.81,0.68,9.97,8.64,5.21,-10.91,100,0.00
+180,Spicy Chicken Curry with Rice,Non-Vegetarian,522,47.92,0.60,9.95,8.67,5.22,-11.16,100,0.00
+181,Grilled Tofu Wrap,Vegan,374,48.03,0.51,9.94,8.71,5.23,-11.41,100,0.00
+182,Paneer and Spinach Wrap,Vegetarian,388,48.14,0.43,9.92,8.74,5.24,-11.66,100,0.00
+183,Tofu and Chickpea Burger,Vegan,462,48.25,0.35,9.90,8.78,5.26,-11.91,100,0.00
+184,Chicken and Sweet Potato Salad,Non-Vegetarian,482,48.35,0.27,9.88,8.81,5.27,-12.16,100,0.00
+185,Vegan Lentil Stew with Spinach,Vegan,304,48.46,0.19,9.86,8.85,5.28,-12.41,100,0.00
+186,Paneer Bhurji with Quinoa,Vegetarian,414,48.57,0.11,9.84,8.88,5.29,-12.66,100,0.00
+187,Chana and Tofu Salad,Vegan,376,48.68,0.03,9.82,8.92,5.30,-12.92,100,0.00
+188,Grilled Chicken with Veggie Rice,Non-Vegetarian,484,48.79,-0.05,9.81,8.95,5.31,-13.17,100,0.00
+189,Tofu and Bell Pepper Stir Fry,Vegan,374,48.90,-0.13,9.79,8.99,5.32,-13.42,100,0.00
+190,Chicken and Avocado Salad,Non-Vegetarian,442,49.00,-0.21,9.77,9.02,5.33,-13.67,100,0.00
+191,Grilled Paneer with Avocado,Vegetarian,354,49.11,-0.29,9.75,9.06,5.34,-13.92,100,0.00
+192,Spicy Vegan Chickpea Wrap,Vegan,180,49.22,-0.37,9.73,9.09,5.36,-14.17,100,0.00
+193,Tofu and Quinoa Salad,Vegan,386,54.28,24.13,16.89,6.03,9.65,0.00,100,0.06
+194,Chicken Tikka with Brown Rice,Non-Vegetarian,504,61.60,31.92,17.92,4.48,5.60,89.60,100,0.06
+195,Vegan Lentil Soup with Vegetables,Vegan,312,46.22,23.11,9.24,3.47,6.93,0.00,100,0.07
+196,Paneer and Broccoli Stir Fry,Vegetarian,362,20.69,29.48,18.62,6.21,6.21,62.06,100,0.08
+197,Chickpea and Tofu Pulao,Vegan,416,60.21,24.08,13.14,4.38,7.66,0.00,100,0.06
+198,Chicken Tandoori with Veggie Salad,Non-Vegetarian,462,41.07,29.26,18.48,6.16,7.19,77.00,100,0.06
+199,Grilled Tofu with Hummus,Vegan,386,44.11,27.57,15.44,5.51,8.82,0.00,100,0.07
+200,Palak and Tofu Curry,Vegan,282,29.17,17.50,9.72,3.89,6.81,0.00,100,0.06
+201,Grilled Tempeh with Steamed Veggies,Non-Vegetarian,404,46.17,28.86,18.47,6.93,10.39,0.00,100,0.07
+202,Vegetable and Tofu Stir-Fry with Rice,Vegan,408,60.65,22.05,13.23,5.51,7.72,0.00,100,0.05
+203,Paneer and Chickpea Curry,Vegetarian,422,54.26,24.11,21.70,8.44,9.65,0.00,100,0.06
+204,Vegetable Quesadilla,Vegetarian,480,64.00,16.00,21.33,8.53,6.40,0.00,100,0.03
+205,Spicy Lentil Tacos,Vegetarian,345,57.50,18.40,10.35,5.75,6.90,0.00,100,0.05
+206,Chickpea and Cauliflower Stew,Vegetarian,328,46.86,17.57,14.06,4.69,9.37,0.00,100,0.05
+207,Quinoa and Kale Salad,Vegetarian,360,50.63,20.25,13.50,5.63,9.00,0.00,100,0.06
+208,Spinach and Potato Croquettes,Vegetarian,402,54.82,18.27,21.93,7.31,8.53,0.00,100,0.05
+209,Mango Chutney Chicken,Non-Vegetarian,422,31.65,30.07,18.99,4.22,7.39,84.40,100,0.07
+210,Vegetable Pita Wrap,Vegetarian,328,52.71,11.71,14.06,5.86,8.20,0.00,100,0.04
+211,Roasted Cauliflower and Lentil Soup,Vegetarian,280,43.08,12.92,8.62,5.38,7.54,0.00,100,0.05
+212,Tofu and Veggie Stir-Fry,Non-Vegetarian,380,59.38,21.38,14.25,8.31,9.50,0.00,100,0.06
+213,Spicy Mushroom and Tofu Curry,Vegan,375,45.45,22.73,17.05,6.82,7.95,0.00,100,0.06
+214,Grilled Eggplant with Tahini,Non-Vegetarian,322,32.20,10.73,19.32,9.66,7.51,0.00,100,0.03
+215,Chickpea and Spinach Wrap,Vegetarian,292,43.26,16.22,8.65,5.41,7.57,0.00,100,0.06
+216,Grilled Chicken and Avocado Salad,Non-Vegetarian,368,29.05,27.60,11.62,4.84,6.78,77.47,100,0.08
+217,Vegetable Soup with Quinoa,Vegetarian,263,37.57,9.39,6.58,5.64,7.51,0.00,100,0.04
+218,Lentil and Potato Stew,Vegetarian,344,53.75,19.35,8.60,5.38,8.60,0.00,100,0.06
+219,Tofu and Vegetable Kebabs,Vegan,410,46.86,25.77,21.09,8.20,10.54,0.00,100,0.06
+220,Palak and Paneer Wrap,Vegetarian,422,49.97,22.21,19.99,7.77,8.88,55.53,100,0.05
+221,Grilled Salmon Salad,Vegetarian,465,25.83,29.45,25.83,6.20,7.23,93.00,100,0.06
+222,Chana and Rice,Vegetarian,350,50.00,15.00,10.00,6.00,9.00,0.00,100,0.04
+223,Vegetable and Tofu Korma,Vegan,427,58.71,19.22,16.01,8.54,7.47,0.00,100,0.05
+224,Paneer and Veggie Stuffed Paratha,Non-Vegetarian,442,58.16,23.26,20.94,9.31,8.14,58.16,100,0.05
+225,Quinoa and Veggie Stuffed Peppers,Non-Vegetarian,342,51.30,20.52,11.40,6.84,9.12,0.00,100,0.06
+226,Chickpea and Avocado Toast,Vegetarian,328,52.48,19.68,15.74,6.56,7.87,0.00,100,0.06
+227,Grilled Chicken Caesar Salad,Non-Vegetarian,442,31.57,29.99,18.94,7.37,6.31,89.45,100,0.07
+228,Spinach and Mushroom Salad,Vegetarian,342,42.75,12.21,21.99,6.11,8.55,0.00,100,0.04
+229,Chana and Broccoli Stir-Fry,Vegetarian,360,54.00,21.60,14.40,7.20,9.60,0.00,100,0.06
+230,Vegetable Sushi Rolls,Vegetarian,350,50.00,15.00,10.00,6.00,8.00,0.00,100,0.04
+231,Spicy Tofu Tacos,Vegan,348,49.71,24.86,14.91,6.21,8.70,0.00,100,0.07
+232,Grilled Paneer with Green Salad,Vegetarian,382,29.84,34.02,21.49,8.36,7.16,59.69,100,0.09
+233,Tofu and Broccoli Stir-Fry,Vegan,378,51.55,20.62,16.04,8.02,9.16,0.00,100,0.05
+234,Vegetable Makhani,Vegetarian,454,62.43,20.43,20.43,9.08,10.22,0.00,100,0.05
+235,Chickpea and Vegetable Patties,Vegetarian,407,63.59,22.89,19.08,8.90,11.45,0.00,100,0.06
+236,Grilled Tofu with Asparagus,Vegan,392,44.80,24.64,17.92,5.60,8.96,0.00,100,0.06
+237,Vegetable Pakora with Yogurt Dip,Vegetarian,363,56.33,15.02,18.78,7.51,8.76,0.00,100,0.04
+238,Lentil and Sweet Potato Curry,Vegetarian,380,57.58,20.73,13.82,6.91,10.36,0.00,100,0.05
+239,Chana and Spinach SautÃ©,Vegetarian,310,45.93,17.22,11.48,5.74,6.89,0.00,100,0.06
+240,Paneer and Vegetable Skewers,Vegetarian,342,26.72,21.38,19.24,8.55,7.48,53.44,100,0.06
+MH001,Puran Poli,Vegetarian,268,48.24,4.29,8.58,16.08,5.36,0.00,100,0.02
+MH002,Vada Pav,Vegetarian,363,51.86,7.26,15.56,4.15,3.11,0.00,100,0.02
+MH003,Misal Pav,Vegetarian,422,51.58,9.38,16.88,9.38,4.69,0.00,100,0.02
+MH004,Sabudana Khichdi,Vegetarian,310,44.29,4.43,8.86,0.89,2.66,0.00,100,0.01
+MH005,Poha,Vegetarian,256,40.96,6.14,8.19,2.05,3.07,0.00,100,0.02
+MH006,Thalipeeth,Vegetarian,300,40.00,8.00,12.00,2.00,4.00,0.00,100,0.03
+MH007,Bhakri,Vegetarian,216,32.40,6.48,8.64,1.08,2.16,0.00,100,0.03
+MH008,Pitla,Vegetarian,182,25.28,7.08,6.07,3.03,2.02,0.00,100,0.04
+MH009,Kothimbir Wadi,Vegetarian,282,20.14,10.07,18.13,1.01,4.03,0.00,100,0.04
+MH010,Pav Bhaji,Vegetarian,387,47.30,6.88,12.90,8.60,6.02,0.00,100,0.02
+MH011,Shira,Vegetarian,304,45.60,4.05,12.16,18.24,3.04,0.00,100,0.01
+MH012,Bhel Puri,Vegetarian,232,40.60,5.80,9.28,2.32,5.80,0.00,100,0.03
+MH013,Puran Poli,Vegetarian,266,42.56,4.26,10.64,19.15,5.32,0.00,100,0.02
+MH014,Batata Vada,Vegetarian,291,40.74,4.66,17.46,1.16,3.49,0.00,100,0.02
+MH015,Alu Vadi,Vegetarian,228,44.33,5.07,10.13,3.80,3.80,0.00,100,0.02
+MH016,Modak,Vegetarian,290,46.61,5.18,10.36,15.54,2.07,0.00,100,0.02
+MH017,Pohe,Vegetarian,199,28.43,3.79,6.63,1.90,2.84,0.00,100,0.02
+MH018,Zunka Bhakri,Vegetarian,347,44.61,7.93,14.87,1.98,5.95,0.00,100,0.02
+MH019,Khandvi,Vegetarian,282,45.12,9.02,11.28,2.26,4.51,0.00,100,0.03
+MH020,Ukadiche Modak,Vegetarian,310,51.67,5.17,10.33,18.60,3.10,0.00,100,0.02
+MH021,Pav Bhaji,Vegetarian,414,56.93,8.28,18.63,10.35,7.25,0.00,100,0.02
+MH022,Kolhapuri Misal,Vegetarian,383,47.88,11.49,14.36,9.58,5.75,0.00,100,0.03
+MH023,Chutney,Vegetarian,162,27.00,2.16,6.48,12.96,5.40,0.00,100,0.01
+MH024,Shev Bhaji,Vegetarian,308,44.00,11.00,13.20,2.20,4.40,0.00,100,0.04
+MH025,Amboli,Vegetarian,232,36.91,5.27,8.44,1.05,2.11,0.00,100,0.02
+MH026,Bhakarwadi,Vegetarian,343,44.10,6.86,14.70,7.84,4.90,0.00,100,0.02
+MH027,Surli Vadi,Vegetarian,254,35.56,6.10,10.16,3.05,4.06,0.00,100,0.02
+MH028,Kaladi,Vegetarian,280,33.79,7.72,11.59,0.97,2.90,0.00,100,0.03
+MH029,Kachori,Vegetarian,398,56.86,10.23,20.47,3.41,5.69,0.00,100,0.03
+MH030,Shengdana chutney,Vegetarian,174,14.50,5.80,9.67,1.93,1.93,0.00,100,0.03
+MH031,Chana Usal,Vegetarian,427,58.71,19.22,16.01,6.41,6.41,0.00,100,0.05
+MH032,Goan Saag,Vegetarian,240,38.18,7.64,8.73,1.09,3.27,0.00,100,0.03
+MH033,Pitla Bhakri,Vegetarian,320,41.14,7.31,10.97,3.66,4.57,0.00,100,0.02
+MH034,Mango Mastani,Vegetarian,219,30.66,3.50,6.13,19.27,1.75,0.00,100,0.02
+MH035,Dal Amti,Vegetarian,328,54.67,15.31,8.75,3.28,5.47,0.00,100,0.05
+MH036,Ghavtya,Vegetarian,288,42.67,5.33,12.80,16.00,3.20,0.00,100,0.02
+MH037,Masala Wada,Vegetarian,343,39.20,11.76,14.70,1.96,3.92,0.00,100,0.03
+MH038,Shrikhand,Vegetarian,376,56.40,6.58,11.28,28.20,2.82,0.00,100,0.02
+MH039,Tambda Rassa,Vegetarian,314,41.87,16.75,10.47,4.19,3.14,0.00,100,0.05
+MH040,Biryani,Vegetarian,460,61.33,10.22,20.44,8.18,5.11,0.00,100,0.02
+MH041,Navratan Korma,Vegetarian,382,42.97,9.55,17.19,9.55,4.77,0.00,100,0.03
+MH042,Maharashtrian Bhaji,Vegetarian,216,29.45,5.89,7.85,2.95,3.93,0.00,100,0.03
+MH043,Karvande,Vegetarian,175,24.31,2.92,6.81,1.94,1.94,0.00,100,0.02
+MH044,Ragda Pattice,Vegetarian,367,52.43,8.39,15.73,4.19,5.24,0.00,100,0.02
+MH045,Chana Biryani,Vegetarian,443,63.99,11.81,14.77,4.92,3.94,0.00,100,0.03
+MH046,Alu Patra,Vegetarian,232,32.48,4.64,7.42,2.78,2.78,0.00,100,0.02
+MH047,Chivda,Vegetarian,282,37.60,7.52,9.40,4.70,3.76,0.00,100,0.03
+MH048,Garadu,Vegetarian,264,33.00,3.77,11.31,1.89,2.83,0.00,100,0.01
+MH049,Masale Bhath,Vegetarian,375,53.57,10.71,16.07,5.36,6.43,0.00,100,0.03
+MH050,Ambapoli,Vegetarian,310,55.36,5.54,11.07,19.93,4.43,0.00,100,0.02
+MH051,Kairi Chi Koshimbir,Vegetarian,164,18.22,2.73,7.29,4.56,1.82,0.00,100,0.02
+MH052,Khichdi,Vegetarian,278,37.07,6.49,9.27,1.85,3.71,0.00,100,0.02
+MH053,Chandrakala,Vegetarian,266,42.56,4.26,10.64,19.15,4.26,0.00,100,0.02
+MH054,Pohe Shira,Vegetarian,212,27.65,4.61,7.37,12.90,1.84,0.00,100,0.02
+MH055,Tamda Rassa,Vegetarian,258,30.96,12.38,10.32,4.13,2.06,0.00,100,0.05
+MH056,Chana Sookha,Vegetarian,224,26.88,7.17,7.17,3.58,4.48,0.00,100,0.03
+MH057,Amti,Vegetarian,234,30.33,8.67,5.20,2.60,3.47,0.00,100,0.04
+MH058,Methi Thepla,Vegetarian,258,30.10,6.02,8.60,4.30,5.16,0.00,100,0.02
+MH059,Pitla,Vegetarian,258,36.12,7.22,10.32,2.06,3.10,0.00,100,0.03
+MH060,Batata Bhaji,Vegetarian,188,20.43,3.27,6.54,1.63,3.27,0.00,100,0.02
+WB001,Shorshe Ilish,Vegetarian,405,20.25,25.31,25.31,5.06,2.03,75.94,100,0.06
+WB002,Macher Jhol,Vegetarian,355,35.50,20.29,15.21,3.04,3.04,50.71,100,0.06
+WB003,Chingri Malai Curry,Vegetarian,433,28.87,21.17,24.06,7.70,1.92,62.54,100,0.05
+WB004,Shorshe Bata,Vegetarian,355,41.42,23.67,17.75,5.92,4.73,53.25,100,0.07
+WB005,Cholar Dal,Vegetarian,272,43.52,10.88,8.70,3.26,5.44,0.00,100,0.04
+WB006,Shorshe Paturi,Vegetarian,370,26.43,19.03,23.26,4.23,3.17,68.71,100,0.05
+WB007,Alur Dom,Vegetarian,292,38.93,5.84,11.68,2.92,3.89,0.00,100,0.02
+WB008,Khichuri,Vegetarian,342,53.74,7.82,9.77,4.89,4.89,0.00,100,0.02
+WB009,Bengali Beguni,Vegetarian,272,38.08,6.53,13.06,3.26,3.26,0.00,100,0.02
+WB010,Pora Shorshe Ilish,Vegetarian,436,18.69,29.07,26.47,6.23,3.11,83.05,100,0.07
+WB011,Macher Kalia,Vegetarian,420,42.00,21.00,21.00,4.20,2.10,63.00,100,0.05
+WB012,Bengali Fish Fry,Non-Vegetarian,352,29.33,21.12,23.47,2.35,3.52,46.93,100,0.06
+WB013,Dhokar Dalna,Vegetarian,280,40.00,12.00,8.00,2.00,6.00,0.00,100,0.04
+WB014,Chingri Bhorta,Vegetarian,350,25.00,22.00,18.00,4.00,2.00,70.00,100,0.06
+WB015,Shukto,Vegetarian,242,29.04,7.74,9.68,3.87,3.87,0.00,100,0.03
+WB016,Labra,Vegetarian,282,41.78,8.36,10.44,5.22,5.22,0.00,100,0.03
+WB017,Bengali Luchi,Vegetarian,292,38.93,5.84,11.68,1.95,2.92,0.00,100,0.02
+WB018,Shorshe Ilish Bhorta,Vegetarian,390,20.53,28.74,22.58,7.18,3.08,71.84,100,0.07
+WB019,Beguni Bhaja,Vegetarian,216,32.40,6.48,8.64,2.16,4.32,0.00,100,0.03
+WB020,Posto Bata,Vegetarian,240,42.00,8.40,9.60,3.60,6.00,0.00,100,0.04
+WB021,Chingri Bhorta,Vegetarian,342,26.72,21.38,19.24,5.34,3.21,64.13,100,0.06
+WB022,Macher Manna,Vegetarian,400,30.00,25.00,20.00,6.00,3.00,50.00,100,0.06
+WB023,Chingri Malai,Vegetarian,433,28.87,21.17,24.06,7.70,1.92,62.54,100,0.05
+WB024,Kosha Mangsho,Vegetarian,595,47.60,33.92,30.35,5.95,4.76,77.35,100,0.06
+WB025,Kolar Bora,Vegetarian,212,31.80,5.30,8.48,5.30,2.12,0.00,100,0.03
+WB026,Papad Bhaja,Vegetarian,170,28.33,4.53,6.80,3.40,3.40,0.00,100,0.03
+WB027,Chingri Paturi,Vegetarian,366,19.26,21.19,21.19,5.78,2.89,62.61,100,0.06
+WB028,Shorshe Bata Macher Jhol,Vegetarian,382,32.74,27.29,19.65,4.37,3.27,54.57,100,0.07
+WB029,Chingri Machher Malai,Vegetarian,470,29.24,22.98,26.63,9.40,2.09,62.67,100,0.05
+WB030,Phoolkopir Dalna,Vegetarian,252,32.67,9.33,7.47,2.80,4.67,0.00,100,0.04
+WB031,Bhuna Khichuri,Vegetarian,367,48.29,7.73,14.49,5.79,3.86,0.00,100,0.02
+WB032,Chingri Malai Curry,Vegetarian,433,28.87,21.17,24.06,7.70,1.92,67.36,100,0.05
+WB033,Pui Shaak Bhaja,Vegetarian,202,33.67,7.86,6.73,3.37,4.49,0.00,100,0.04
+WB034,Shorshe Bhapa Ilish,Vegetarian,452,23.13,29.43,26.80,7.36,3.15,78.84,100,0.07
+WB035,Chingri Bhuna,Vegetarian,390,28.74,20.53,22.58,6.16,3.08,61.58,100,0.05
+WB036,Dimer Dalna,Vegetarian,308,39.60,12.32,7.04,2.64,4.40,0.00,100,0.04
+WB037,Sorshe Ilish Bhaja,Vegetarian,441,25.81,30.65,26.89,7.53,3.23,80.67,100,0.07
+WB038,Kachori,Vegetarian,367,52.43,8.39,15.73,6.29,4.19,0.00,100,0.02
+WB039,Macher Jhol Bhuna,Vegetarian,398,29.85,19.90,21.89,4.97,2.98,49.75,100,0.05
+WB040,Shorshe Ilish Bhorta,Vegetarian,425,22.26,28.33,25.30,8.10,3.04,70.83,100,0.07
+WB041,Bengali Sweets Platter,Vegetarian,442,53.04,8.84,15.91,17.68,4.42,0.00,100,0.02
+WB042,Bhapa Ilish,Vegetarian,444,23.37,32.72,29.79,7.01,3.51,87.63,100,0.07
+WB043,Bengali Dhokla,Vegetarian,256,51.20,7.68,10.24,3.84,5.12,0.00,100,0.03
+WB044,Shrimp Masala,Vegetarian,417,27.80,19.86,24.82,4.96,2.98,59.57,100,0.05
+WB045,Bengali Chingri Bhuna,Vegetarian,398,29.33,23.04,23.04,6.28,4.19,57.61,100,0.06
+WB046,Lobster Malai Curry,Vegetarian,510,32.64,28.56,26.01,9.18,2.04,81.60,100,0.06
+WB047,Roshogolla,Vegetarian,163,32.60,4.35,3.26,16.30,0.00,0.00,100,0.03
+WB048,Chamcham,Vegetarian,158,29.63,4.94,1.98,11.85,0.99,0.00,100,0.03
+WB049,Shondesh,Vegetarian,209,40.64,6.97,5.81,20.90,2.32,0.00,100,0.03
+WB050,Patishapta,Vegetarian,264,42.24,8.45,8.45,21.12,3.17,0.00,100,0.03
+WB051,Chhena Poda,Vegetarian,302,45.30,8.05,10.07,25.17,4.03,0.00,100,0.03
+WB052,Bengali Sandesh,Vegetarian,202,27.55,6.43,5.51,16.53,1.84,0.00,100,0.03
+WB053,Ras Malai,Vegetarian,347,44.61,7.93,14.87,24.79,2.97,0.00,100,0.02
+WB054,Chomchom,Vegetarian,159,27.83,4.97,2.98,14.91,0.99,0.00,100,0.03
+WB055,Amriti,Vegetarian,309,57.22,8.01,10.30,17.17,3.43,0.00,100,0.03
+WB056,Doi Maach,Vegetarian,400,30.00,25.00,20.00,6.00,3.00,60.00,100,0.06
+WB057,Alu Posto,Vegetarian,244,34.16,7.81,7.81,4.88,3.90,0.00,100,0.03
+WB058,Shukto Bhaja,Vegetarian,262,33.96,7.76,9.70,3.88,4.85,0.00,100,0.03
+WB059,Bengali Fish Curry,Non-Vegetarian,408,37.58,23.62,21.47,6.44,4.29,53.68,100,0.06
+WB060,Bengali Egg Curry,Non-Vegetarian,306,40.80,14.28,10.20,4.08,5.10,0.00,100,0.05
+WB061,Bhapa Doi,Vegetarian,328,42.17,9.37,11.25,16.87,2.81,0.00,100,0.03
+WB062,Masala Prawn Curry,Non-Vegetarian,400,28.57,23.81,19.05,5.71,2.86,57.14,100,0.06
+WB063,Bengali Kathi Roll,Vegetarian,462,56.47,20.53,18.48,7.19,4.11,0.00,100,0.04
+WB064,Shorshe Paturi,Vegetarian,378,24.87,19.89,21.88,4.97,2.98,69.63,100,0.05
+WB065,Bengali Baingan Bhaja,Vegetarian,216,25.92,5.18,6.91,3.46,3.46,0.00,100,0.02
+WB066,Shorshe Ilish Bhorta,Vegetarian,476,35.70,30.94,30.35,5.95,4.76,89.25,100,0.07
+WB067,Kachauli,Vegetarian,232,40.60,5.80,9.28,4.64,3.48,0.00,100,0.03
+WB068,Bengali Sondesh,Vegetarian,189,31.50,6.30,5.25,15.75,3.15,0.00,100,0.03
+WB069,Chingri Bhorta,Vegetarian,398,37.31,24.88,27.36,7.46,2.49,74.63,100,0.06
+WB070,Shorshe Ilish Bhorta,Vegetarian,425,22.26,28.33,25.30,8.10,3.04,75.89,100,0.07
+WB071,Bengali Macher Kalia,Vegetarian,420,35.00,25.00,20.00,6.00,3.00,60.00,100,0.06
+WB072,Dimer Bora,Vegetarian,250,30.00,10.00,10.00,4.00,3.00,0.00,100,0.04
+WB073,Sorshe Ilish Bhuna,Vegetarian,457,31.88,29.76,26.57,8.50,3.19,74.40,100,0.07
+WB074,Chingri Malai,Vegetarian,450,32.73,22.50,26.08,7.16,2.05,66.48,100,0.05
+WB075,Alu Bhorta,Vegetarian,232,35.30,5.04,8.07,3.03,5.04,0.00,100,0.02
+WB076,Shorshe Bata Macher Bhorta,Vegetarian,425,29.75,23.38,26.56,5.31,4.25,63.75,100,0.06
+WB077,Bengali Pulao,Vegetarian,314,44.86,5.38,8.97,4.49,3.59,0.00,100,0.02
+WB078,Chingri Bhorta,Vegetarian,380,33.25,26.13,23.75,7.13,3.56,71.25,100,0.07
+WB079,Chingri Malai Prawn,Non-Vegetarian,460,31.36,23.00,26.66,6.27,2.09,73.18,100,0.05
+WB080,Shorshe Ilish Paturi,Vegetarian,452,21.52,30.67,27.44,7.53,3.23,80.71,100,0.07
+WB081,Macher Tenga,Vegetarian,338,45.07,24.79,11.27,4.51,3.38,56.33,100,0.07
+WB082,Kosha Mangsho,Vegetarian,595,47.60,33.92,30.35,5.95,4.76,77.35,100,0.06
+WB083,Shorshe Bata Bhorta,Vegetarian,372,34.88,20.93,23.25,5.81,4.65,69.75,100,0.06
+WB084,Dimer Dalna,Vegetarian,280,41.48,12.44,8.30,3.11,5.19,0.00,100,0.04
+WB085,Shorshe Bata Machher Jhol,Vegetarian,414,36.23,28.98,18.63,6.21,3.11,62.10,100,0.07
+WB086,Beguni,Vegetarian,220,33.00,7.70,8.80,3.30,3.30,0.00,100,0.04
+WB087,Macher Bhorta,Vegetarian,374,28.33,31.73,20.40,5.67,3.40,68.00,100,0.08
+WB088,Chingri Malai,Vegetarian,417,25.95,18.53,23.17,8.34,1.85,69.50,100,0.04
+WB089,Patishapta,Vegetarian,278,39.71,6.95,9.93,19.86,2.98,0.00,100,0.03
+WB090,Chingri Bhuna,Vegetarian,406,32.05,23.51,23.51,6.41,3.21,64.11,100,0.06
+WB091,Bengali Aloo Macher Jhol,Vegetarian,320,35.00,18.00,12.00,6.00,3.00,50.00,100,0.06
+WB092,Chingri Paturi,Vegetarian,378,24.87,19.89,21.88,5.97,2.98,69.63,100,0.05
+WB093,Macher Manna,Vegetarian,406,29.00,21.27,21.27,6.77,2.90,58.00,100,0.05
+WB094,Shorshe Ilish Bhaja,Vegetarian,484,33.05,33.64,30.10,7.08,3.54,88.54,100,0.07
+WB095,Chingri Bhorta,Vegetarian,362,33.94,22.63,20.36,6.79,3.39,67.88,100,0.06
+WB096,Shukto Bhaja,Vegetarian,262,33.96,7.76,9.70,3.88,4.85,0.00,100,0.03
+WB097,Kolar Bora,Vegetarian,224,30.55,8.15,8.15,5.09,3.05,0.00,100,0.04
+WB098,Bengali Moong Dal,Vegetarian,272,43.52,10.88,8.70,2.18,5.44,0.00,100,0.04
+WB099,Bengali Bhuna Khichuri,Vegetarian,367,48.29,7.73,14.49,5.79,3.86,0.00,100,0.02
+WB100,Sorshe Ilish Bhuna,Vegetarian,457,31.88,29.76,26.57,8.50,3.19,74.40,100,0.07
+WB101,Dhokar Dalna,Vegetarian,300,39.31,10.34,12.41,3.10,6.21,0.00,100,0.03
+WB102,Chingri Malai Curry,Vegetarian,450,32.00,22.00,25.50,7.00,3.00,65.00,100,0.05
+WB103,Alu Bhorta,Vegetarian,240,33.60,6.72,7.68,3.84,4.80,0.00,100,0.03
+WB104,Kosha Mangsho,Vegetarian,595,47.60,33.92,30.35,5.95,4.76,77.35,100,0.06
+WB105,Bhapa Doi,Vegetarian,328,46.13,10.25,12.30,18.45,3.08,0.00,100,0.03
+WB106,Chingri Bhuna,Vegetarian,418,29.86,24.88,21.90,5.97,2.99,59.71,100,0.06
+WB107,Macher Paturi,Vegetarian,408,30.06,21.47,25.77,6.44,3.22,69.79,100,0.05
+WB108,Shorshe Ilish Bhorta,Vegetarian,434,30.38,23.87,27.67,6.51,3.26,75.95,100,0.06
+WB109,Bengali Macher Bhorta,Vegetarian,335,30.45,20.30,15.23,5.08,3.05,55.83,100,0.06
+WB110,Shorshe Ilish Paturi,Vegetarian,444,21.14,29.60,26.96,8.46,4.23,74.00,100,0.07
+WB111,Chingri Malai,Vegetarian,417,25.95,18.53,23.17,6.49,1.85,64.87,100,0.04
+WB112,Shorshe Ilish Bhaja,Vegetarian,484,33.05,33.64,30.10,8.26,4.72,88.54,100,0.07
+WB113,Dhokar Dalna,Vegetarian,272,36.91,11.66,7.77,2.91,4.86,0.00,100,0.04
+WB114,Shorshe Ilish Bhorta,Vegetarian,425,22.26,28.33,25.30,8.10,3.04,75.89,100,0.07
+WB115,Chingri Bhorta,Vegetarian,398,37.31,24.88,27.36,6.22,4.98,74.63,100,0.06
+WB116,Chingri Malai Prawn,Non-Vegetarian,433,28.87,21.17,24.06,6.74,2.89,67.36,100,0.05
+WB117,Shorshe Bata Macher Jhol,Vegetarian,414,36.23,28.98,18.63,6.21,3.11,62.10,100,0.07
+WB118,Chingri Bhuna,Vegetarian,406,32.05,23.51,23.51,6.41,3.21,64.11,100,0.06
+WB119,Bengali Bhuna Khichuri,Vegetarian,367,48.29,7.73,14.49,5.79,3.86,0.00,100,0.02
+WB120,Shorshe Ilish Bhuna,Vegetarian,457,31.88,29.76,26.57,8.50,3.19,74.40,100,0.07
+GJ002,Khandvi,Vegetarian,161,26.83,4.29,5.37,2.15,2.15,0.00,100,0.03
+GJ003,Thepla,Vegetarian,256,46.55,6.98,9.31,3.49,4.65,0.00,100,0.03
+GJ004,Handvo,Vegetarian,278,44.48,7.78,11.12,3.34,5.56,0.00,100,0.03
+GJ005,Undhiyu,Vegetarian,402,52.89,10.58,19.04,5.29,6.35,42.32,100,0.03
+GJ006,Patra,Vegetarian,231,40.43,8.09,8.09,3.47,5.78,0.00,100,0.04
+GJ007,Dal Dhokli,Vegetarian,364,52.00,14.56,12.48,6.24,6.24,0.00,100,0.04
+GJ008,Sev Tameta,Vegetarian,327,46.71,9.34,17.52,8.18,5.84,0.00,100,0.03
+GJ009,Khichdi,Vegetarian,318,47.70,12.72,10.60,4.24,6.36,0.00,100,0.04
+GJ010,Gujarati Kadhi,Vegetarian,204,31.73,5.67,9.07,3.40,2.27,0.00,100,0.03
+GJ011,Chakri,Vegetarian,234,31.91,6.38,10.64,2.13,2.13,0.00,100,0.03
+GJ012,Shakariya,Vegetarian,271,48.78,7.59,7.59,4.34,3.25,0.00,100,0.03
+GJ013,Garlic Chutney,Vegetarian,71,10.14,1.01,3.04,1.01,1.01,0.00,100,0.01
+GJ014,Chaas,Vegetarian,68,4.86,2.91,3.89,2.91,0.97,0.00,100,0.04
+GJ015,Farsan,Vegetarian,235,35.76,8.17,7.15,4.09,3.07,0.00,100,0.03
+GJ016,Chhole,Vegetarian,344,44.23,13.76,11.79,3.93,4.91,0.00,100,0.04
+GJ017,Gathiya,Vegetarian,229,32.71,7.63,9.81,3.27,2.18,0.00,100,0.03
+GJ018,Dal Tadka,Vegetarian,363,46.67,12.45,15.56,5.19,4.15,0.00,100,0.03
+GJ019,Bhaat,Vegetarian,267,44.50,5.93,6.92,2.97,4.94,0.00,100,0.02
+GJ020,Khaman,Vegetarian,185,30.83,5.14,5.14,3.08,3.08,0.00,100,0.03
+GJ021,Shrikhand,Vegetarian,234,29.25,5.85,9.75,19.50,1.95,0.00,100,0.03
+GJ022,Moong Dal Chilla,Vegetarian,222,33.30,13.32,6.66,3.33,4.44,0.00,100,0.06
+GJ023,Patra,Vegetarian,227,36.11,6.19,7.22,4.13,4.13,0.00,100,0.03
+GJ024,Dahi Vada,Vegetarian,266,34.48,8.87,9.85,3.94,4.93,0.00,100,0.03
+GJ025,Chana Chaat,Vegetarian,197,29.55,7.88,4.93,2.96,3.94,0.00,100,0.04
+GJ026,Vaghareli Khichdi,Vegetarian,387,50.92,13.24,15.28,6.11,6.11,0.00,100,0.03
+GJ027,Methi Thepla,Vegetarian,236,37.55,6.44,8.58,4.29,5.36,0.00,100,0.03
+GJ028,Laadva,Vegetarian,274,43.84,6.58,10.96,8.77,3.29,0.00,100,0.02
+GJ029,Surati Locho,Vegetarian,240,42.00,8.40,9.60,3.60,6.00,0.00,100,0.04
+GJ030,Sev Usal,Vegetarian,375,53.57,10.71,16.07,6.43,7.50,0.00,100,0.03
+GJ031,Kachaudi,Vegetarian,253,35.42,8.10,9.11,4.05,3.04,0.00,100,0.03
+GJ032,Methi Na Thepla,Vegetarian,256,46.55,6.98,9.31,4.65,5.82,0.00,100,0.03
+GJ033,Handvo,Vegetarian,282,49.04,9.81,12.26,4.90,6.13,0.00,100,0.03
+GJ034,Masala Dosa,Vegetarian,336,50.91,7.13,12.22,5.09,4.07,0.00,100,0.02
+GJ035,Pudla,Vegetarian,209,40.64,6.97,5.81,3.48,4.64,0.00,100,0.03
+GJ036,Undhiyu,Vegetarian,422,61.08,11.11,19.99,7.77,6.66,44.42,100,0.03
+GJ037,Toor Dal,Vegetarian,290,46.61,14.50,6.21,2.07,6.21,0.00,100,0.05
+GJ038,Chana Dal,Vegetarian,300,45.00,12.00,8.00,4.00,6.00,0.00,100,0.04
+GJ039,Papad,Vegetarian,95,20.36,2.71,4.07,0.00,2.71,0.00,100,0.03
+GJ040,Besan Ladoo,Vegetarian,347,44.61,7.93,14.87,19.83,3.97,0.00,100,0.02
+GJ041,Dabeli,Vegetarian,336,48.00,6.72,11.52,9.60,4.80,0.00,100,0.02
+GJ042,Gajjar Halwa,Vegetarian,248,34.21,3.42,6.84,15.39,3.42,0.00,100,0.01
+GJ043,Meethi Khichdi,Vegetarian,320,53.33,12.80,8.53,7.47,6.40,0.00,100,0.04
+GJ044,Kadhi Chawal,Vegetarian,288,37.03,7.41,6.58,5.76,4.94,0.00,100,0.03
+GJ045,Vrat Wale Aloo,Vegetarian,190,28.50,3.80,5.70,7.60,2.85,0.00,100,0.02
+GJ046,Khakra,Vegetarian,262,41.68,9.53,11.91,2.38,3.57,0.00,100,0.04
+GJ047,Methi Na Thepla,Vegetarian,269,46.78,8.19,10.53,5.85,5.85,0.00,100,0.03
+GJ048,Bombil Fry,Vegetarian,315,26.25,21.00,15.75,3.15,4.20,63.00,100,0.07
+GJ049,Paatra,Vegetarian,235,41.13,9.40,8.23,4.70,4.70,0.00,100,0.04
+GJ050,Khichu,Vegetarian,205,47.83,6.83,6.83,4.10,4.10,0.00,100,0.03
+GJ051,Masala Khichdi,Vegetarian,330,51.56,10.31,10.31,5.16,6.19,0.00,100,0.03
+GJ052,Chili Pakora,Vegetarian,234,31.91,6.38,10.64,3.19,3.19,0.00,100,0.03
+GJ053,Gujarati Bhindi,Vegetarian,240,25.00,8.00,12.00,8.00,4.00,0.00,100,0.03
+GJ054,Bharela Ringan,Vegetarian,303,37.88,7.58,16.23,5.41,4.33,0.00,100,0.03
+GJ055,Chana Batata,Vegetarian,250,40.00,9.00,6.00,4.00,5.00,0.00,100,0.04
+GJ056,Dal Baati,Vegetarian,422,58.03,10.55,18.99,6.33,6.33,0.00,100,0.03
+GJ057,Sev Khamani,Vegetarian,240,33.60,6.72,7.68,3.84,4.80,0.00,100,0.03
+GJ058,Sev Usal,Vegetarian,375,53.57,10.71,16.07,6.43,7.50,0.00,100,0.03
+GJ059,Meetha Dhokla,Vegetarian,252,45.82,5.73,9.16,9.16,3.44,0.00,100,0.02
+GJ060,Gujarati Pulao,Vegetarian,391,56.59,9.26,15.43,5.14,6.17,0.00,100,0.02
+GJ061,Bhindi Sambhariya,Vegetarian,276,35.78,7.16,12.27,6.13,4.09,0.00,100,0.03
+GJ062,Khichdi,Vegetarian,292,43.80,9.73,7.79,3.89,5.84,0.00,100,0.03
+GJ063,Chaas,Vegetarian,72,5.76,2.88,3.84,2.88,1.92,0.00,100,0.04
+GJ064,Khandvi,Vegetarian,174,24.17,4.83,5.80,2.90,3.87,0.00,100,0.03
+GJ065,Dhokla,Vegetarian,196,38.11,5.44,4.36,5.44,3.27,0.00,100,0.03
+GJ066,Dal Vada,Vegetarian,262,39.87,9.11,11.39,4.56,5.70,0.00,100,0.03
+GJ067,Mag Ni Dal,Vegetarian,302,50.33,12.08,6.04,4.03,6.04,0.00,100,0.04
+GJ068,Papad Sabzi,Vegetarian,234,35.10,7.02,11.70,4.68,5.85,0.00,100,0.03
+GJ069,Methi Na Gota,Vegetarian,216,32.40,6.48,8.64,4.32,4.32,0.00,100,0.03
+GJ070,Doodh Pak,Vegetarian,300,34.29,6.86,10.29,15.43,2.57,0.00,100,0.02
+GJ071,Shrikhand,Vegetarian,234,29.25,5.85,9.75,19.50,2.92,0.00,100,0.03
+GJ072,Gujarati Chaas,Vegetarian,68,4.86,2.91,3.89,2.91,1.94,0.00,100,0.04
+GJ073,Thalipeeth,Vegetarian,255,44.35,8.87,7.76,4.43,3.33,0.00,100,0.03
+GJ074,Gathiya,Vegetarian,249,39.61,7.92,10.19,5.66,4.53,0.00,100,0.03
+GJ075,Khaman Dhokla,Vegetarian,185,30.83,5.14,5.14,4.11,3.08,0.00,100,0.03
+GJ076,Dudhi na Muthiya,Vegetarian,236,41.30,7.08,9.44,3.54,4.72,0.00,100,0.03
+GJ077,Mag Ni Dal,Vegetarian,286,45.96,13.28,6.13,3.06,6.13,0.00,100,0.05
+GJ078,Gujarati Bhindi,Vegetarian,240,25.00,8.00,12.00,8.00,4.00,0.00,100,0.03
+GJ079,Chole Bhature,Vegetarian,448,54.76,11.95,19.91,7.96,4.98,0.00,100,0.03
+GJ080,Undhiyu,Vegetarian,402,52.89,10.58,19.04,5.29,6.35,42.32,100,0.03
+GJ081,Patra,Vegetarian,231,40.43,8.09,8.09,3.47,5.78,0.00,100,0.04
+GJ082,Thalipeeth,Vegetarian,255,44.35,8.87,7.76,4.43,3.33,0.00,100,0.03
+GJ083,Sev Khamani,Vegetarian,240,33.60,6.72,7.68,3.84,4.80,0.00,100,0.03
+GJ084,Kachaudi,Vegetarian,253,40.25,9.20,10.35,3.45,4.60,0.00,100,0.04
+GJ085,Khandvi,Vegetarian,161,22.36,3.58,4.47,1.79,1.79,0.00,100,0.02
+GJ086,Khichu,Vegetarian,205,47.83,6.83,6.83,4.10,4.10,0.00,100,0.03
+GJ087,Sev Usal,Vegetarian,375,53.57,10.71,16.07,6.43,7.50,0.00,100,0.03
+GJ088,Masala Khichdi,Vegetarian,330,51.56,10.31,10.31,5.16,6.19,0.00,100,0.03
+GJ089,Patra,Vegetarian,227,36.11,6.19,7.22,4.13,4.13,0.00,100,0.03
+GJ090,Bhajiya,Vegetarian,216,32.40,6.48,8.64,4.32,3.24,0.00,100,0.03
+GJ091,Sev Tameta,Vegetarian,327,46.71,9.34,17.52,8.18,5.84,0.00,100,0.03
+GJ092,Chana Chaat,Vegetarian,197,29.55,7.88,4.93,2.96,3.94,0.00,100,0.04
+GJ093,Pudla,Vegetarian,209,40.64,6.97,5.81,3.48,4.64,0.00,100,0.03
+GJ094,Shakariya,Vegetarian,271,48.78,7.59,7.59,4.34,3.25,0.00,100,0.03
+GJ095,Thepla,Vegetarian,256,46.55,6.98,9.31,3.49,4.65,0.00,100,0.03
+GJ096,Undhiyu,Vegetarian,422,61.08,11.11,19.99,7.77,6.66,44.42,100,0.03
+GJ097,Handvo,Vegetarian,278,44.48,7.78,11.12,3.34,5.56,0.00,100,0.03
+GJ098,Khichdi,Vegetarian,318,47.70,12.72,10.60,4.24,6.36,0.00,100,0.04
+GJ099,Sev Khamani,Vegetarian,240,33.60,6.72,7.68,3.84,4.80,0.00,100,0.03
+GJ100,Gujarati Pulao,Vegetarian,391,56.59,9.26,15.43,5.14,6.17,0.00,100,0.02
+GJ101,Masala Dosa,Vegetarian,336,50.91,7.13,12.22,5.09,4.07,0.00,100,0.02
+GJ102,Dhokla,Vegetarian,196,38.11,5.44,4.36,5.44,3.27,0.00,100,0.03
+GJ103,Khandvi,Vegetarian,161,26.83,4.29,5.37,2.15,2.15,0.00,100,0.03
+GJ104,Thepla,Vegetarian,256,46.55,6.98,9.31,3.49,4.65,0.00,100,0.03
+GJ105,Handvo,Vegetarian,278,44.48,7.78,11.12,3.34,5.56,0.00,100,0.03
+GJ106,Undhiyu,Vegetarian,402,52.89,10.58,19.04,5.29,6.35,42.32,100,0.03
+GJ107,Patra,Vegetarian,231,40.43,8.09,8.09,3.47,5.78,0.00,100,0.04
+GJ108,Dal Dhokli,Vegetarian,364,52.00,14.56,12.48,6.24,6.24,0.00,100,0.04
+GJ109,Sev Tameta,Vegetarian,327,46.71,9.34,17.52,8.18,5.84,0.00,100,0.03
+GJ110,Khichdi,Vegetarian,318,47.70,12.72,10.60,4.24,6.36,0.00,100,0.04
+GJ111,Gujarati Kadhi,Vegetarian,204,31.73,5.67,9.07,3.40,2.27,0.00,100,0.03
+GJ112,Chakri,Vegetarian,234,31.91,6.38,10.64,2.13,2.13,0.00,100,0.03
+GJ113,Shakariya,Vegetarian,271,48.78,7.59,7.59,4.34,3.25,0.00,100,0.03
+GJ114,Garlic Chutney,Vegetarian,71,10.14,1.01,3.04,1.01,1.01,0.00,100,0.01
+GJ115,Chaas,Vegetarian,68,4.86,2.91,3.89,2.91,0.97,0.00,100,0.04
+GJ116,Farsan,Vegetarian,235,35.76,8.17,7.15,4.09,3.07,0.00,100,0.03
+GJ117,Chhole,Vegetarian,344,44.23,13.76,11.79,3.93,4.91,0.00,100,0.04
+GJ118,Gathiya,Vegetarian,229,32.71,7.63,9.81,3.27,2.18,0.00,100,0.03
+GJ119,Dal Tadka,Vegetarian,363,46.67,12.45,15.56,5.19,4.15,0.00,100,0.03
+GJ120,Bhaat,Vegetarian,267,44.50,5.93,6.92,2.97,4.94,0.00,100,0.02
+GJ121,Khaman,Vegetarian,185,30.83,5.14,5.14,3.08,3.08,0.00,100,0.03
+GJ122,Shrikhand,Vegetarian,234,29.25,5.85,9.75,19.50,1.95,0.00,100,0.03
+GJ123,Moong Dal Chilla,Vegetarian,222,33.30,13.32,6.66,3.33,4.44,0.00,100,0.06
+GJ124,Patra,Vegetarian,227,36.11,6.19,7.22,4.13,4.13,0.00,100,0.03
+GJ125,Dahi Vada,Vegetarian,266,34.48,8.87,9.85,3.94,4.93,0.00,100,0.03
+GJ126,Chana Chaat,Vegetarian,197,29.55,7.88,4.93,2.96,3.94,0.00,100,0.04
+GJ127,Vaghareli Khichdi,Vegetarian,387,50.92,13.24,15.28,6.11,6.11,0.00,100,0.03
+GJ128,Methi Thepla,Vegetarian,236,37.55,6.44,8.58,4.29,5.36,0.00,100,0.03
+GJ129,Laadva,Vegetarian,274,43.84,6.58,10.96,8.77,3.29,0.00,100,0.02
+GJ130,Surati Locho,Vegetarian,240,42.00,8.40,9.60,3.60,6.00,0.00,100,0.04
+RJ001,Dal Baati,Vegetarian,422,58.03,10.55,18.99,6.33,6.33,0.00,100,0.03
+RJ002,Churma,Vegetarian,308,55.44,6.16,14.78,18.48,4.93,0.00,100,0.02
+RJ003,Gatte Ki Sabzi,Vegetarian,383,54.71,13.13,16.41,10.94,6.57,0.00,100,0.03
+RJ004,Ker Sangri,Vegetarian,327,48.44,9.69,18.17,8.48,6.06,0.00,100,0.03
+RJ005,Laal Maas,Vegetarian,512,39.82,32.43,29.01,5.69,7.96,56.89,100,0.06
+RJ006,Shahi Gatte,Vegetarian,383,53.19,12.77,15.96,8.51,5.32,0.00,100,0.03
+RJ007,Churma Ladoo,Vegetarian,362,50.91,5.66,20.36,22.63,5.66,0.00,100,0.02
+RJ008,Chana Chaat,Vegetarian,206,29.43,7.85,5.89,3.92,4.90,0.00,100,0.04
+RJ009,Panchmel Dal,Vegetarian,356,53.94,12.95,12.95,5.39,6.47,0.00,100,0.04
+RJ010,Khichdi,Vegetarian,302,48.54,8.63,10.79,4.31,6.47,0.00,100,0.03
+RJ011,Methi Thepla,Vegetarian,236,37.55,6.44,8.58,4.29,5.36,0.00,100,0.03
+RJ012,Missi Roti,Vegetarian,262,36.68,8.38,10.48,4.19,5.24,0.00,100,0.03
+RJ013,Masala Papad,Vegetarian,141,18.80,3.76,4.70,1.88,1.88,0.00,100,0.03
+RJ014,Papad Ki Sabzi,Vegetarian,212,31.80,5.30,8.48,4.24,3.18,0.00,100,0.03
+RJ015,Chili Garlic Paratha,Vegetarian,300,40.00,8.00,12.00,8.00,5.00,0.00,100,0.03
+RJ016,Kaladi,Vegetarian,196,21.30,5.11,6.82,8.52,2.56,0.00,100,0.03
+RJ017,Pyaz Kachori,Vegetarian,272,38.08,6.53,13.06,8.70,3.26,0.00,100,0.02
+RJ018,Alu Ki Sabzi,Vegetarian,292,41.71,6.26,12.51,8.34,5.21,0.00,100,0.02
+RJ019,Gilavati Kebab,Vegetarian,365,22.81,17.11,28.52,3.42,5.70,45.63,100,0.05
+RJ020,Malai Ghevar,Vegetarian,400,52.63,5.26,21.05,21.05,4.21,0.00,100,0.01
+RJ021,Rajma Masala,Vegetarian,350,50.00,15.00,10.00,5.00,8.00,0.00,100,0.04
+RJ022,Bajre Ki Roti,Vegetarian,280,46.67,7.26,8.30,6.22,5.19,0.00,100,0.03
+RJ023,Lassi,Vegetarian,187,25.97,6.23,7.27,10.39,4.16,0.00,100,0.03
+RJ024,Chana Masala,Vegetarian,310,46.50,10.33,10.33,5.17,8.27,0.00,100,0.03
+RJ025,Pyaz Ki Kachori,Vegetarian,270,45.00,5.63,11.25,6.75,3.38,0.00,100,0.02
+RJ026,Gobhi Ke Parathe,Vegetarian,316,49.03,7.63,13.08,8.72,6.54,0.00,100,0.02
+RJ027,Kachri Ki Sabzi,Vegetarian,240,38.18,7.64,8.73,5.45,6.55,0.00,100,0.03
+RJ028,Saag,Vegetarian,374,56.67,13.60,15.87,7.93,6.80,0.00,100,0.04
+RJ029,Bhutte Ka Kees,Vegetarian,282,45.12,9.02,11.28,7.90,5.64,0.00,100,0.03
+RJ030,Imarti,Vegetarian,310,48.44,4.84,9.69,19.37,3.87,0.00,100,0.02
+RJ031,Garlic Chutney,Vegetarian,84,10.50,2.10,4.20,1.05,1.05,0.00,100,0.03
+RJ032,Bhindi Masala,Vegetarian,280,44.55,10.18,15.27,7.64,5.09,0.00,100,0.04
+RJ033,Dal Tadka,Vegetarian,344,45.53,14.16,12.14,6.07,5.06,0.00,100,0.04
+RJ034,Jalebi,Vegetarian,379,59.56,6.50,16.24,27.07,4.33,0.00,100,0.02
+RJ035,Gatte Ki Kadhi,Vegetarian,375,52.08,10.42,15.63,8.33,5.21,0.00,100,0.03
+RJ036,Thalipeeth,Vegetarian,255,44.35,8.87,7.76,4.43,3.33,0.00,100,0.03
+RJ037,Dal Baati Churma,Vegetarian,480,64.00,16.00,21.33,12.80,7.47,0.00,100,0.03
+RJ038,Bajre Ki Khichdi,Vegetarian,356,50.86,12.21,12.21,6.10,7.12,0.00,100,0.03
+RJ039,Masala Baati,Vegetarian,407,60.50,14.30,16.50,8.80,6.60,0.00,100,0.04
+RJ040,Mirchi Bada,Vegetarian,292,41.71,6.26,12.51,10.43,4.17,0.00,100,0.02
+RJ041,Chana Dal,Vegetarian,300,48.21,12.86,8.57,5.36,6.43,0.00,100,0.04
+RJ042,Ghughra,Vegetarian,236,35.91,6.16,8.21,8.21,4.10,0.00,100,0.03
+RJ043,Paneer Tikka,Vegetarian,315,18.00,22.50,13.50,4.50,3.60,36.00,100,0.07
+RJ044,Lehsun Ki Chutney,Vegetarian,59,5.90,0.84,2.53,1.69,1.69,0.00,100,0.01
+RJ045,Sev Tameta,Vegetarian,282,38.90,7.78,9.72,6.81,4.86,0.00,100,0.03
+RJ046,Moong Dal Chilla,Vegetarian,222,33.30,13.32,6.66,3.33,4.44,0.00,100,0.06
+RJ047,Methi Na Gota,Vegetarian,229,32.71,7.63,9.81,4.36,5.45,0.00,100,0.03
+RJ048,Papad,Vegetarian,104,19.50,2.60,5.20,0.00,2.60,0.00,100,0.03
+RJ049,Mawa Kachori,Vegetarian,318,39.75,7.95,13.91,14.91,4.97,0.00,100,0.03
+RJ050,Bhutte Ke Kees,Vegetarian,282,45.12,9.02,11.28,7.90,5.64,0.00,100,0.03
+SID001,Dosa,Vegetarian,196,38.11,5.44,4.36,1.09,3.27,0.00,100,0.03
+SID002,Idli,Vegetarian,154,30.80,4.11,2.05,0.00,3.08,0.00,100,0.03
+SID003,Medu Vada,Vegetarian,252,30.24,6.05,12.10,3.02,4.03,0.00,100,0.02
+SID004,Sambar,Vegetarian,202,33.67,7.86,6.73,4.49,5.61,0.00,100,0.04
+SID005,Upma,Vegetarian,252,48.00,6.00,9.60,1.20,4.80,0.00,100,0.02
+SID006,Adai,Vegetarian,288,39.72,13.90,7.94,3.97,4.97,0.00,100,0.05
+SID007,Pongal,Vegetarian,322,48.79,7.81,9.76,3.90,3.90,0.00,100,0.02
+SID008,Appam,Vegetarian,214,41.61,5.94,7.13,2.38,3.57,0.00,100,0.03
+SID009,Chutney,Vegetarian,93,11.63,2.33,5.81,2.33,2.33,0.00,100,0.03
+SID010,Masala Dosa,Vegetarian,336,50.91,7.13,12.22,5.09,4.07,0.00,100,0.02
+SID011,Plain Paratha,Vegetarian,236,35.91,6.16,8.21,2.05,4.10,0.00,100,0.03
+SID012,Rava Kesari,Vegetarian,266,39.41,3.94,9.85,19.70,2.96,0.00,100,0.01
+SID013,Thousand Layer Dosa,Vegetarian,294,47.25,6.30,10.50,5.25,5.25,0.00,100,0.02
+SID014,Chole Bhature,Vegetarian,448,54.76,11.95,19.91,7.96,4.98,0.00,100,0.03
+SID015,Chutney Powder,Vegetarian,130,16.25,4.33,6.50,3.25,4.33,0.00,100,0.03
+SID016,Ven Pongal,Vegetarian,322,47.35,7.58,9.47,4.74,5.68,0.00,100,0.02
+SID017,Kal Dosa,Vegetarian,265,39.26,5.89,8.83,3.93,4.91,0.00,100,0.02
+SID018,Boondi Raita,Vegetarian,121,13.96,3.72,4.65,3.72,1.86,0.00,100,0.03
+SID019,Curd Rice,Vegetarian,280,46.67,7.26,8.30,4.15,6.22,0.00,100,0.03
+SID020,Chana Sundal,Vegetarian,197,29.55,7.88,4.93,2.96,5.91,0.00,100,0.04
+SID021,Avial,Vegetarian,292,36.50,5.48,10.95,6.39,7.30,0.00,100,0.02
+SID022,Shira,Vegetarian,243,38.88,4.86,6.80,17.50,2.92,0.00,100,0.02
+SID023,Vegetable Biryani,Vegetarian,396,59.40,11.88,11.88,7.92,6.93,0.00,100,0.03
+SID024,Coconut Rice,Vegetarian,322,46.00,7.36,9.20,5.52,4.60,0.00,100,0.02
+SID025,Mango Rice,Vegetarian,316,43.09,6.70,11.49,5.75,5.75,0.00,100,0.02
+SID026,Bisi Bele Bath,Vegetarian,386,57.38,10.43,14.61,5.22,6.26,0.00,100,0.03
+SID027,Idli Sambar,Vegetarian,246,44.73,8.95,6.71,5.59,5.59,0.00,100,0.04
+SID028,Rava Dosa,Vegetarian,289,48.17,7.49,9.63,4.28,4.28,0.00,100,0.03
+SID029,Keerai Masiyal,Vegetarian,240,35.00,7.00,8.00,5.00,6.00,0.00,100,0.03
+SID030,Pesarattu,Vegetarian,268,38.29,8.61,7.66,2.87,4.79,0.00,100,0.03
+SID031,Curd Vada,Vegetarian,224,26.88,7.17,7.17,3.58,4.48,0.00,100,0.03
+SID032,Tomato Rice,Vegetarian,320,46.45,8.26,12.39,5.16,6.19,0.00,100,0.03
+SID033,Vegetable Kurma,Vegetarian,375,53.57,10.71,16.07,8.57,7.50,0.00,100,0.03
+SID034,Chana Masala,Vegetarian,318,47.70,12.72,10.60,5.30,6.36,0.00,100,0.04
+SID035,Appam with Stew,Vegetarian,336,52.50,7.35,12.60,6.30,6.30,0.00,100,0.02
+SID036,Chettinad Chicken Curry,Non-Vegetarian,400,30.00,25.00,20.00,5.00,6.00,70.00,100,0.06
+SID037,Tomato Rasam,Vegetarian,99,14.85,2.97,2.97,1.98,3.96,0.00,100,0.03
+SID038,Poha,Vegetarian,229,41.64,6.25,5.20,2.08,3.12,0.00,100,0.03
+SID039,Cabbage Thoran,Vegetarian,245,34.30,5.88,8.82,3.92,5.88,0.00,100,0.02
+SID040,Chili Bajji,Vegetarian,276,34.50,6.90,11.83,4.93,3.94,0.00,100,0.03
+SID041,Masala Buttermilk,Vegetarian,83,9.22,3.69,2.77,2.77,1.84,0.00,100,0.04
+SID042,Paneer Tikka,Vegetarian,315,18.00,22.50,13.50,4.50,3.60,36.00,100,0.07
+SID043,Puli Pongal,Vegetarian,322,48.79,7.81,9.76,4.88,5.85,0.00,100,0.02
+SID044,Adai Avial,Vegetarian,368,56.22,10.22,12.27,6.13,7.16,0.00,100,0.03
+SID045,Shavige,Vegetarian,296,51.03,6.12,8.17,4.08,5.10,0.00,100,0.02
+SID046,Chettinad Parotta,Vegetarian,340,51.52,8.24,12.36,6.18,5.15,0.00,100,0.02
+SID047,Steamed Idli,Vegetarian,154,33.00,4.40,2.20,0.00,3.30,0.00,100,0.03
+SID048,Balchao,Vegetarian,400,31.58,26.32,21.05,8.42,6.32,63.16,100,0.07
+SID049,Curd Rice with Mango,Vegetarian,289,43.35,6.74,8.67,6.74,5.78,0.00,100,0.02
+SID050,Mysore Pak,Vegetarian,339,43.59,5.81,14.53,24.21,3.87,0.00,100,0.02
+SID051,Vegetable Saag,Vegetarian,286,39.45,8.88,9.86,5.92,6.90,0.00,100,0.03
+SID052,Kootu,Vegetarian,340,53.13,8.50,12.75,5.31,8.50,0.00,100,0.03
+SID053,Chole Bhature,Vegetarian,448,54.76,11.95,19.91,7.96,4.98,0.00,100,0.03
+SID054,Thalipeeth,Vegetarian,255,44.35,8.87,7.76,4.43,3.33,0.00,100,0.03
+SID055,Moon Dal Payasam,Vegetarian,294,41.34,5.51,9.19,13.78,4.59,0.00,100,0.02
+SID056,Moong Dal Cheela,Vegetarian,242,38.50,13.20,6.60,3.30,4.40,0.00,100,0.05
+SID057,Masala Dosa with Chutney,Vegetarian,336,52.50,7.35,12.60,5.25,4.20,0.00,100,0.02
+SID058,Sweet Pongal,Vegetarian,276,44.36,5.91,7.89,14.79,4.93,0.00,100,0.02
+SID059,Chettinad Idli,Vegetarian,167,27.83,4.64,2.78,1.86,3.71,0.00,100,0.03
+SID060,Onion Pakora,Vegetarian,272,38.08,6.53,13.06,6.53,5.44,0.00,100,0.02
+SID061,Kerala Sadya,Vegetarian,415,62.25,10.38,15.56,8.30,7.26,0.00,100,0.03
+SID062,Sundal,Vegetarian,220,33.00,7.70,8.80,5.50,6.60,0.00,100,0.04
+SID063,Coconut Chutney,Vegetarian,155,20.67,3.10,7.23,4.13,4.13,0.00,100,0.02
+SID064,Bonda,Vegetarian,296,43.85,7.67,13.16,5.48,4.39,0.00,100,0.03
+SID065,Palak Chaat,Vegetarian,230,31.36,5.23,10.45,5.23,6.27,0.00,100,0.02
+SID066,Vegetable Uthappam,Vegetarian,320,46.45,8.26,12.39,5.16,7.23,0.00,100,0.03
+SID067,Jackfruit Curry,Vegetarian,354,50.57,7.08,14.16,10.11,8.09,0.00,100,0.02
+SID068,Ragi Dosa,Vegetarian,266,44.33,7.88,5.91,3.94,3.94,0.00,100,0.03
+SID069,Besar Kebab,Vegetarian,260,32.50,11.14,7.43,5.57,4.64,0.00,100,0.04
+SID070,Kara Kozhambu,Vegetarian,344,53.75,9.68,12.90,7.53,6.45,0.00,100,0.03
+SID071,Kootu Curry,Vegetarian,301,46.71,10.38,9.34,5.19,6.23,0.00,100,0.03
+SID072,Saravana Bhavan Dosa,Vegetarian,332,55.33,6.64,13.28,6.64,5.53,0.00,100,0.02
+SID073,Peerkangai Thogayal,Vegetarian,140,20.00,6.00,4.00,3.00,2.00,0.00,100,0.04
+SID074,Pesarattu with Ginger Chutney,Vegetarian,288,44.69,8.94,7.94,4.97,5.96,0.00,100,0.03
+SID075,Medu Vada with Sambar,Vegetarian,274,40.59,6.09,10.15,5.07,4.06,0.00,100,0.02
+SID076,Sundal with Coconut,Vegetarian,229,31.23,7.29,9.37,5.20,6.25,0.00,100,0.03
+SID077,Kozhi Varuval,Vegetarian,400,26.32,30.00,21.05,6.32,7.37,63.16,100,0.08
+SID078,Coconut Rice with Curry,Vegetarian,360,56.57,8.23,12.34,6.17,6.17,0.00,100,0.02
+SID079,Hyderabadi Biryani,Vegetarian,450,60.00,12.00,18.00,9.00,7.00,0.00,100,0.03
+SID080,Ambur Biryani,Vegetarian,412,52.70,11.50,15.33,7.67,5.75,0.00,100,0.03
+SID081,Medu Vada with Coconut Chutney,Vegetarian,254,35.56,6.10,10.16,5.08,4.06,0.00,100,0.02
+SID082,Vermicelli Payasam,Vegetarian,289,44.84,6.98,8.97,17.94,4.98,0.00,100,0.02
+SID083,Sadya Rice,Vegetarian,342,53.74,7.82,9.77,6.84,5.86,0.00,100,0.02
+SID084,Sambar Rice,Vegetarian,322,48.79,7.81,9.76,5.85,4.88,0.00,100,0.02
+SID085,Vegetable Ishtoo,Vegetarian,322,50.31,8.05,10.06,5.03,7.04,0.00,100,0.03
+SID086,Neer Dosa,Vegetarian,214,34.05,4.86,5.84,1.95,2.92,0.00,100,0.02
+SID087,Ven Pongal with Coconut Chutney,Vegetarian,335,49.26,8.87,10.84,6.90,5.91,0.00,100,0.03
+SID088,Thakkali Rasam,Vegetarian,120,18.00,3.00,4.00,2.00,5.00,0.00,100,0.03
+SID089,Chili Paneer,Vegetarian,335,28.71,19.14,14.36,4.79,5.74,47.86,100,0.06
+SID090,Chettinad Egg Curry,Non-Vegetarian,400,30.00,25.00,20.00,5.00,6.00,60.00,100,0.06
+SID091,Chappathi,Vegetarian,238,43.27,6.49,6.49,3.25,5.41,0.00,100,0.03
+SID092,Curd Rice with Pappad,Vegetarian,280,43.45,6.76,7.72,4.83,5.79,0.00,100,0.02
+SID093,Parippu Curry,Vegetarian,282,40.29,8.06,10.07,4.03,6.04,0.00,100,0.03
+SID094,Vegetable Pulao,Vegetarian,364,54.11,8.85,11.81,7.87,6.89,0.00,100,0.02
+SID095,Onion Dosa,Vegetarian,298,46.24,7.19,10.28,4.11,5.14,0.00,100,0.02
+SID096,Chili Gobi,Vegetarian,292,43.26,6.49,12.98,5.41,5.41,0.00,100,0.02
+SID097,South Indian Curry,Vegetarian,403,63.33,13.82,17.27,6.91,8.06,0.00,100,0.03
+SID098,Palak Paneer,Vegetarian,343,39.20,11.76,14.70,5.88,6.86,49.00,100,0.03
+SID099,Parotta,Vegetarian,318,53.00,7.42,10.60,6.36,5.30,0.00,100,0.02
+SID100,Chettinad Fish Curry,Non-Vegetarian,392,25.79,28.88,20.63,5.16,6.19,72.21,100,0.07
+SID101,Masala Uttapam,Vegetarian,340,48.57,7.77,11.66,5.83,5.83,0.00,100,0.02
+SID102,Steamed Rice,Vegetarian,214,43.77,3.89,1.95,0.00,0.00,0.00,100,0.02
+SID103,Kara Dosa,Vegetarian,296,52.86,6.34,8.46,4.23,5.29,0.00,100,0.02
+SID104,Pesarattu with Coconut Chutney,Vegetarian,288,43.20,8.64,7.68,4.80,5.76,0.00,100,0.03
+SID105,Mysore Bonda,Vegetarian,296,43.85,7.67,13.16,5.48,4.39,0.00,100,0.03
+SID106,Curd Vada with Sambar,Vegetarian,282,40.29,8.06,10.07,5.04,5.04,0.00,100,0.03
+SID107,Ragi Mudde,Vegetarian,246,39.36,7.87,5.90,1.97,6.89,0.00,100,0.03
+SID108,Koottu Curry,Vegetarian,348,54.38,10.88,13.05,5.44,6.53,0.00,100,0.03
+SID109,Appam with Egg Curry,Non-Vegetarian,391,58.12,9.51,15.85,7.40,7.40,0.00,100,0.02
+SID110,Chana Sundal,Vegetarian,197,29.55,7.88,4.93,2.96,5.91,0.00,100,0.04
+SID111,Chili Rava,Vegetarian,236,34.42,5.90,7.87,3.93,4.92,0.00,100,0.03
+SID112,Neer Mor,Vegetarian,88,9.78,2.93,3.91,1.96,2.93,0.00,100,0.03
+SID113,Tomato Poori,Vegetarian,340,53.13,8.50,12.75,6.38,6.38,0.00,100,0.03
+SID114,Jackfruit Biryani,Vegetarian,406,60.90,10.15,14.21,8.12,7.11,0.00,100,0.03
+SID115,Spinach Pakora,Vegetarian,252,30.24,6.05,12.10,5.04,4.03,0.00,100,0.02
+SID116,Vegetable Thoran,Vegetarian,249,36.31,7.26,9.34,4.15,6.23,0.00,100,0.03
+SID117,Cholam Koozh,Vegetarian,304,54.29,8.69,8.69,3.26,5.43,0.00,100,0.03
+SID118,Palak Paratha,Vegetarian,302,43.84,7.79,9.74,5.85,4.87,0.00,100,0.03
+SID119,Curd Pulao,Vegetarian,336,52.50,7.35,12.60,4.20,6.30,0.00,100,0.02
+SID120,Chili Gobi with Rice,Vegetarian,407,69.77,9.30,17.44,8.14,5.81,0.00,100,0.02
+SID121,Vegetable Adai,Vegetarian,292,45.31,10.07,8.06,6.04,5.03,0.00,100,0.03
+SID122,Kanji,Vegetarian,240,49.09,6.55,4.36,0.00,3.27,0.00,100,0.03
+SID123,Meen Pollichathu,Vegetarian,420,35.85,25.61,20.49,7.17,6.15,71.71,100,0.06
+SID124,Ven Pongal with Sambar,Vegetarian,322,48.79,7.81,9.76,4.88,5.85,0.00,100,0.02
+SID125,Masala Kootu,Vegetarian,326,52.58,9.46,10.52,5.26,7.36,0.00,100,0.03
+SID126,Appam with Coconut Milk,Vegetarian,364,58.88,9.64,12.85,6.42,6.42,0.00,100,0.03
+SID127,Chutney Rice,Vegetarian,298,44.70,6.95,9.93,4.97,5.96,0.00,100,0.02
+SID128,Chana Pulao,Vegetarian,348,48.33,9.67,11.60,5.80,6.77,0.00,100,0.03
+SID129,Rasam Rice,Vegetarian,318,48.18,6.75,9.64,3.85,5.78,0.00,100,0.02
+SID130,Paruppu Curry,Vegetarian,292,43.80,9.73,7.79,3.89,4.87,0.00,100,0.03
+SID131,Medu Vada with Coconut Chutney,Vegetarian,292,43.26,6.49,12.98,5.41,4.33,0.00,100,0.02
+SID132,Chili Paneer with Rice,Vegetarian,442,58.16,23.26,20.94,9.31,8.14,58.16,100,0.05
+SID133,Vegetable Biryani with Raita,Vegetarian,415,55.33,9.22,13.83,7.38,6.46,0.00,100,0.02
+SID134,Coconut Kheer,Vegetarian,252,34.76,4.34,6.95,17.38,5.21,0.00,100,0.02
+SID135,Onion Uttapam,Vegetarian,340,53.13,8.50,12.75,6.38,6.38,0.00,100,0.03
+SID136,Chettinad Mutton Curry,Non-Vegetarian,450,36.63,29.30,23.02,7.33,6.28,62.79,100,0.07
+SID137,Vegetable Theeyal,Vegetarian,344,52.12,9.38,12.51,6.25,6.25,0.00,100,0.03
+SID138,Poha with Peanuts,Vegetarian,247,42.96,6.44,7.52,5.37,4.30,0.00,100,0.03
+SID139,Puliyodarai,Vegetarian,378,59.40,8.64,15.12,5.40,7.56,0.00,100,0.02
+SID140,Kadambam,Vegetarian,358,49.72,7.96,13.92,5.97,5.97,0.00,100,0.02
+SID141,Vegetable Uthappam,Vegetarian,320,46.45,8.26,12.39,5.16,7.23,0.00,100,0.03
+SID142,Green Gram Curry,Vegetarian,348,54.38,10.88,13.05,5.44,6.53,0.00,100,0.03
+SID143,Sundal with Tamarind,Vegetarian,240,36.52,7.30,8.35,4.17,6.26,0.00,100,0.03
+SID144,Cholam Pongal,Vegetarian,288,44.69,8.94,7.94,5.96,4.97,0.00,100,0.03
+SID145,Vegetable Moong Dal,Vegetarian,326,52.58,9.46,10.52,5.26,6.31,0.00,100,0.03
+SID146,Mutton Sukka,Non-Vegetarian,400,30.00,25.00,20.00,7.00,7.00,80.00,100,0.06
+SID147,Palakkad Iyer Sambar,Vegetarian,322,48.79,7.81,9.76,4.88,5.85,0.00,100,0.02
+SID148,Chettinad Pepper Chicken,Non-Vegetarian,382,30.16,25.13,18.09,6.03,6.03,60.32,100,0.07
+SID149,Vegetable Korma,Vegetarian,371,53.00,9.54,15.90,8.48,6.36,0.00,100,0.03
+SID150,Ragi Dosa with Coconut Chutney,Vegetarian,266,42.75,7.60,5.70,3.80,4.75,0.00,100,0.03
+SID151,Beetroot Poriyal,Vegetarian,264,42.24,8.45,8.45,4.22,7.39,0.00,100,0.03
+SID152,Moong Dal Kachori,Vegetarian,292,43.26,6.49,12.98,6.49,5.41,0.00,100,0.02
+SID153,Kozhi Rasam,Vegetarian,348,46.40,23.20,13.92,6.96,5.80,81.20,100,0.07
+SID154,Curry Leaf Rice,Vegetarian,340,54.84,8.77,13.16,5.48,6.58,0.00,100,0.03
+SID155,Potato Masala,Vegetarian,190,31.67,4.22,6.33,2.11,4.22,0.00,100,0.02
+SID156,Vegetable Sambar,Vegetarian,340,51.52,8.24,12.36,6.18,6.18,0.00,100,0.02
+SID157,Onion Pakora with Chutney,Vegetarian,272,38.08,6.53,13.06,6.53,5.44,0.00,100,0.02
+SID158,Peanut Sundal,Vegetarian,220,30.00,7.00,8.00,4.00,6.00,0.00,100,0.03
+SID159,Palak Rice,Vegetarian,340,53.13,8.50,12.75,6.38,6.38,0.00,100,0.03
+SID160,Masala Pongal,Vegetarian,326,49.39,8.89,9.88,5.93,5.93,0.00,100,0.03
+SID161,Vegetable Dosa,Vegetarian,320,46.45,8.26,12.39,5.16,6.19,0.00,100,0.03
+SID162,Chettinad Egg Fry,Non-Vegetarian,382,30.16,25.13,18.09,7.04,6.03,60.32,100,0.07
+SID163,Cabbage Kofta Curry,Vegetarian,362,53.24,9.58,14.91,6.39,6.39,0.00,100,0.03
+SID164,Rice with Rasam,Vegetarian,280,45.00,7.00,8.00,5.00,5.00,0.00,100,0.03
+SID165,Spinach Rice,Vegetarian,340,51.52,8.24,12.36,6.18,6.18,0.00,100,0.02
+SID166,Vegetable Masala Dosa,Vegetarian,378,59.40,8.64,15.12,7.56,6.48,0.00,100,0.02
+SID167,Tomato Kootu,Vegetarian,297,46.09,9.22,9.22,5.12,7.17,0.00,100,0.03
+SID168,Chili Methi Paratha,Vegetarian,340,54.84,8.77,13.16,6.58,5.48,0.00,100,0.03
+SID169,Kootu with Rice,Vegetarian,364,57.20,9.36,12.48,6.24,7.28,0.00,100,0.03
+SID170,Curd Bhature,Vegetarian,400,59.46,9.73,17.30,8.65,6.49,0.00,100,0.02
+SID171,Masala Kadamba,Vegetarian,344,47.78,8.60,11.47,6.69,5.73,0.00,100,0.03
+SID172,Vegetable Bonda,Vegetarian,254,37.04,6.35,10.58,4.23,5.29,0.00,100,0.03
+SID173,Rice with Tamarind Paste,Vegetarian,280,45.00,7.00,8.00,5.00,6.00,0.00,100,0.03
+SID174,Avial with Rice,Vegetarian,340,48.57,7.77,11.66,5.83,5.83,0.00,100,0.02
+SID175,Chettinad Mutton Biryani,Non-Vegetarian,468,62.40,12.48,20.80,9.36,7.28,0.00,100,0.03
+SID176,Avial,Vegetarian,340,51.52,8.24,12.36,6.18,6.18,0.00,100,0.02
+SID177,Rasam Vada,Vegetarian,282,41.78,8.36,10.44,6.27,5.22,0.00,100,0.03
+SID178,Vegetable Stew,Vegetarian,326,52.58,9.46,10.52,5.26,7.36,0.00,100,0.03
+SID179,Chana Masala,Vegetarian,317,44.58,13.87,8.92,5.94,5.94,0.00,100,0.04
+SID180,Palak Kootu,Vegetarian,268,38.29,8.61,7.66,4.79,5.74,0.00,100,0.03
+SID181,Chettinad Chicken Biryani,Non-Vegetarian,490,63.91,23.43,19.17,9.59,8.52,53.26,100,0.05
+SID182,Sambar Sadam,Vegetarian,360,56.57,8.23,12.34,6.17,7.20,0.00,100,0.02
+SID183,Curd Rice,Vegetarian,280,42.00,6.53,7.47,5.60,4.67,0.00,100,0.02
+SID184,Masala Dosa with Sambar,Vegetarian,378,56.19,8.17,14.30,7.15,7.15,0.00,100,0.02
+SID185,Tomato Rasam,Vegetarian,260,37.14,6.50,7.43,4.64,5.57,0.00,100,0.03
+SID186,Pesarattu with Ginger Chutney,Vegetarian,344,53.75,9.68,12.90,6.45,7.53,0.00,100,0.03
+SID187,Onion Sambar,Vegetarian,340,54.84,8.77,13.16,6.58,6.58,0.00,100,0.03
+SID188,Mango Rice,Vegetarian,342,57.00,8.29,10.36,7.25,5.18,0.00,100,0.02
+SID189,Appam with Sweetened Coconut Milk,Vegetarian,360,56.57,8.23,12.34,8.23,7.20,0.00,100,0.02
+SID190,Kootu Curry with Rice,Vegetarian,326,49.39,8.89,9.88,5.93,6.92,0.00,100,0.03
+SID191,Avial Rice,Vegetarian,344,49.14,8.85,11.79,6.88,5.90,0.00,100,0.03
+SID192,Vegetable Kurma,Vegetarian,344,50.59,9.11,12.14,7.08,6.07,0.00,100,0.03
+SID193,Pulao with Cucumber Raita,Vegetarian,378,56.19,8.17,14.30,7.15,6.13,0.00,100,0.02
+SID194,Bombil Fry,Vegetarian,335,26.45,17.63,13.22,7.05,4.41,61.71,100,0.05
+SID195,South Indian Lemon Rice,Vegetarian,322,48.79,7.81,9.76,5.85,5.85,0.00,100,0.02
+SID196,Vegetable Pakora,Vegetarian,236,34.42,5.90,7.87,4.92,3.93,0.00,100,0.03
+SID197,Spicy Fish Fry,Non-Vegetarian,400,25.00,28.50,20.00,7.00,6.00,60.00,100,0.07
+SID198,Poha with Coconut,Vegetarian,247,39.52,5.93,6.92,4.94,4.94,0.00,100,0.02
+SID199,Palakkad Sambar,Vegetarian,344,55.48,9.99,13.32,6.66,6.66,0.00,100,0.03
+SID200,Mutton Biryani,Non-Vegetarian,468,62.40,12.48,20.80,9.36,7.28,62.40,100,0.03
+SID201,Chettinad Prawn Curry,Non-Vegetarian,374,22.26,24.93,16.03,8.01,6.23,62.33,100,0.07
+SID202,Curd Rice with Pickles,Vegetarian,289,41.95,6.53,8.39,5.59,5.59,0.00,100,0.02
+SID203,Vegetable Pulao with Raita,Vegetarian,391,56.59,9.26,15.43,6.17,7.20,0.00,100,0.02
+SID204,Tomato Thokku,Vegetarian,155,20.67,3.10,7.23,5.17,3.10,0.00,100,0.02
+SID205,Idli with Tomato Chutney,Vegetarian,256,42.67,6.40,8.53,4.27,5.33,0.00,100,0.03
+SID206,Chettinad Egg Biryani,Non-Vegetarian,442,58.93,9.82,17.68,8.84,6.88,49.11,100,0.02
+SID207,Rice and Kadala Curry,Vegetarian,348,49.71,9.94,11.93,5.97,6.96,0.00,100,0.03
+SID208,Masala Khichdi,Vegetarian,312,47.27,9.45,7.56,5.67,5.67,0.00,100,0.03
+SID209,Avial with Rice,Vegetarian,364,58.88,9.64,12.85,7.49,7.49,0.00,100,0.03
+SID210,Thoran,Vegetarian,326,50.94,9.17,10.19,5.09,7.13,0.00,100,0.03
+SID211,Vegetable Dosa with Sambar,Vegetarian,360,56.57,8.23,12.34,7.20,6.17,0.00,100,0.02
+SID212,Chettinad Mutton Sukka,Non-Vegetarian,412,29.43,27.47,19.62,6.87,5.89,68.67,100,0.07
+SID213,Paratha with Green Chutney,Vegetarian,353,50.43,9.08,13.11,8.07,7.06,0.00,100,0.03
+SID214,Puliyodarai Rice,Vegetarian,360,60.00,8.73,13.09,6.55,7.64,0.00,100,0.02
+SID215,Onion Rice,Vegetarian,318,51.29,7.18,10.26,6.15,7.18,0.00,100,0.02
+SID216,Vegetable Pesarattu,Vegetarian,340,53.13,8.50,12.75,6.38,7.44,0.00,100,0.03
+SID217,Chana Sundal,Vegetarian,220,30.00,7.00,8.00,5.00,6.00,0.00,100,0.03
+SID218,Tomato Upma,Vegetarian,302,45.30,8.05,10.07,5.03,6.04,0.00,100,0.03
+SID219,Methi Thepla,Vegetarian,320,45.00,8.00,12.00,6.00,6.00,0.00,100,0.03
+SID220,Beetroot Rice,Vegetarian,322,50.31,8.05,10.06,5.03,7.04,0.00,100,0.03
+SID221,Chili Methi Rice,Vegetarian,342,57.00,8.29,10.36,7.25,6.22,0.00,100,0.02
+SID222,Sambar with Rice,Vegetarian,344,52.12,9.38,12.51,6.25,6.25,0.00,100,0.03
+SID223,Vegetable Dosa,Vegetarian,316,45.87,7.14,12.23,5.10,6.12,0.00,100,0.02
+SID224,Vegetable Masala Biryani,Vegetarian,442,63.14,10.52,18.94,9.47,7.37,0.00,100,0.02
+SID225,Palak Pakora,Vegetarian,236,34.42,5.90,7.87,3.93,5.90,0.00,100,0.03
+SID226,Mangalore Buns,Vegetarian,269,43.04,7.53,9.68,6.46,5.38,0.00,100,0.03
+SID227,Chettinad Fish Fry,Non-Vegetarian,335,26.45,17.63,13.22,7.05,4.41,61.71,100,0.05
+SID228,Appam with Curry,Vegetarian,360,56.57,8.23,12.34,7.20,7.20,0.00,100,0.02
+SID229,Chana Biryani,Vegetarian,391,58.12,9.51,15.85,8.45,7.40,0.00,100,0.02
+SID230,Thayir Sadam,Vegetarian,280,45.00,7.00,8.00,6.00,6.00,0.00,100,0.03
+SID231,Vegetable Sambar Rice,Vegetarian,344,52.12,9.38,12.51,6.25,6.25,0.00,100,0.03
+SID232,Peanut Rice,Vegetarian,322,48.79,7.81,9.76,5.85,5.85,0.00,100,0.02
+SID233,Cucumber Pachadi,Vegetarian,113,13.04,1.74,4.35,5.22,3.48,0.00,100,0.02
+SID234,Chili Dosa,Vegetarian,336,56.00,7.84,13.44,8.96,6.72,0.00,100,0.02
+SID235,Medu Vada with Sambar,Vegetarian,278,41.19,7.21,10.30,5.15,6.18,0.00,100,0.03
+SID236,Vegetable Uthappam,Vegetarian,326,50.94,9.17,10.19,6.11,7.13,0.00,100,0.03
+SID237,Rava Kesari,Vegetarian,228,29.56,3.38,6.76,16.89,3.38,0.00,100,0.01
+SID238,Curd Paratha,Vegetarian,336,52.50,7.35,12.60,6.30,6.30,0.00,100,0.02
+SID239,Chettinad Chicken Masala,Non-Vegetarian,382,27.29,22.74,16.37,7.28,5.46,63.67,100,0.06
+SID240,Masala Pongal,Vegetarian,326,49.39,8.89,9.88,5.93,5.93,0.00,100,0.03
+SID241,Tomato Rasam Rice,Vegetarian,344,52.12,9.38,12.51,6.25,6.25,0.00,100,0.03
+SID242,Vegetable Biryani with Raita,Vegetarian,415,55.33,9.22,13.83,7.38,6.46,0.00,100,0.02
+SID243,Chili Gobi Rice,Vegetarian,378,59.40,8.64,15.12,7.56,6.48,0.00,100,0.02
+SID244,Mysore Pak,Vegetarian,275,27.50,4.58,13.75,22.92,3.67,0.00,100,0.02
+SID245,Kootu with Rice,Vegetarian,326,50.94,9.17,10.19,5.09,7.13,0.00,100,0.03
+SID246,Rice with Raita,Vegetarian,280,45.00,7.00,8.00,5.00,6.00,0.00,100,0.03
+SID247,Chettinad Prawn Biryani,Non-Vegetarian,490,62.55,22.94,18.77,9.38,7.30,72.98,100,0.05
+SID248,Palak Chapati,Vegetarian,344,53.75,9.68,12.90,6.45,6.45,0.00,100,0.03
+SID249,Vegetable Kootu Curry,Vegetarian,288,43.20,8.64,7.68,4.80,5.76,0.00,100,0.03
+SID250,Spicy Fish Curry,Non-Vegetarian,374,22.26,24.93,16.03,8.01,5.34,62.33,100,0.07
+NID001,Butter Chicken,Non-Vegetarian,425,18.89,26.92,23.61,6.61,5.67,66.11,100,0.06
+NID002,Chole Bhature,Vegetarian,500,65.00,15.00,20.00,8.00,6.00,0.00,100,0.03
+NID003,Shahi Paneer,Vegetarian,405,28.93,14.46,24.11,5.79,6.75,0.00,100,0.04
+NID004,Aloo Paratha,Vegetarian,340,51.52,8.24,12.36,7.21,5.15,0.00,100,0.02
+NID005,Dal Tadka,Vegetarian,363,46.67,12.45,15.56,5.19,6.22,0.00,100,0.03
+NID006,Paneer Tikka,Vegetarian,322,16.10,26.83,19.32,3.22,5.37,53.67,100,0.08
+NID007,Palak Paneer,Vegetarian,362,28.58,19.05,17.15,6.67,4.76,0.00,100,0.05
+NID008,Lassi,Vegetarian,152,15.20,5.07,8.11,10.13,3.04,0.00,100,0.03
+NID009,Kadhi Pakora,Vegetarian,382,42.97,9.55,17.19,4.77,5.73,0.00,100,0.03
+NID010,Vegetable Pulao,Vegetarian,342,53.74,7.82,9.77,5.86,4.89,0.00,100,0.02
+NID011,Rajma,Vegetarian,368,52.57,15.77,12.62,5.26,6.31,0.00,100,0.04
+NID012,Gulab Jamun,Vegetarian,270,43.20,5.40,10.80,16.20,3.24,0.00,100,0.02
+NID013,Biriyani,Vegetarian,450,60.00,12.00,18.00,8.00,6.00,50.00,100,0.03
+NID014,Masoor Dal,Vegetarian,303,48.70,16.23,7.58,5.41,6.49,0.00,100,0.05
+NID015,Methi Thepla,Vegetarian,256,40.96,6.14,8.19,4.10,5.12,0.00,100,0.02
+NID016,Malai Kofta,Vegetarian,393,26.20,10.48,21.83,6.11,6.99,0.00,100,0.03
+NID017,Pakoras,Vegetarian,276,34.50,6.90,11.83,4.93,4.93,0.00,100,0.03
+NID018,Dum Aloo,Vegetarian,382,45.24,10.05,18.09,6.03,5.03,0.00,100,0.03
+NID019,Navratan Korma,Vegetarian,400,43.90,9.76,19.51,6.83,5.85,0.00,100,0.02
+NID020,Pulao,Vegetarian,338,54.68,6.96,9.94,5.96,4.97,0.00,100,0.02
+NID021,Chana Masala,Vegetarian,320,48.48,11.64,7.76,4.85,6.79,0.00,100,0.04
+NID022,Tandoori Roti,Vegetarian,191,37.14,6.37,3.18,5.31,2.12,0.00,100,0.03
+NID023,Shrikhand,Vegetarian,234,29.25,5.85,9.75,19.50,2.92,0.00,100,0.03
+NID024,Keema Matar,Vegetarian,390,34.12,21.45,17.55,7.80,5.85,39.00,100,0.06
+NID025,Chole,Vegetarian,340,53.43,11.66,7.77,3.89,6.80,0.00,100,0.03
+NID026,Vegetable Korma,Vegetarian,382,45.24,10.05,18.09,6.03,6.03,0.00,100,0.03
+NID027,Paneer Butter Masala,Vegetarian,452,34.39,14.74,25.06,6.88,5.90,0.00,100,0.03
+NID028,Chapati,Vegetarian,158,31.60,5.27,2.11,4.21,3.16,0.00,100,0.03
+NID029,Saag Aloo,Vegetarian,300,40.00,8.00,12.00,5.00,5.00,0.00,100,0.03
+NID030,Dal Makhani,Vegetarian,402,43.07,14.36,17.23,6.70,5.74,0.00,100,0.04
+NID031,Achari Paneer,Vegetarian,380,30.00,20.00,20.00,8.00,5.00,0.00,100,0.05
+NID032,Paratha,Vegetarian,294,52.92,7.06,11.76,8.23,5.88,0.00,100,0.02
+NID033,Shahi Paneer,Vegetarian,470,36.56,15.67,26.63,5.22,6.27,0.00,100,0.03
+NID034,Gajar Halwa,Vegetarian,248,34.21,3.42,6.84,17.10,2.57,0.00,100,0.01
+NID035,Poori,Vegetarian,230,31.36,5.23,10.45,5.23,3.14,0.00,100,0.02
+NID036,Chicken Tikka,Non-Vegetarian,255,4.55,22.77,13.66,4.55,3.64,54.64,100,0.09
+NID037,Methi Paratha,Vegetarian,318,54.83,7.68,10.97,6.58,4.39,0.00,100,0.02
+NID038,Vegetable Samosa,Vegetarian,274,43.84,6.58,10.96,7.67,4.38,0.00,100,0.02
+NID039,Paneer Bhurji,Vegetarian,370,29.21,21.42,17.53,6.82,4.87,0.00,100,0.06
+NID040,Keema Naan,Vegetarian,302,45.30,8.05,10.07,5.03,4.03,0.00,100,0.03
+NID041,Palak Paratha,Vegetarian,309,53.28,7.46,9.59,6.39,5.33,0.00,100,0.02
+NID042,Lassi with Mint,Vegetarian,185,23.13,6.94,10.41,11.56,4.63,0.00,100,0.04
+NID043,Saag,Vegetarian,286,40.86,9.19,10.21,5.11,6.13,0.00,100,0.03
+NID044,Alu Gobi,Vegetarian,319,39.88,5.98,14.95,4.98,4.98,0.00,100,0.02
+NID045,Biryani with Raita,Vegetarian,468,62.40,12.48,20.80,9.36,7.28,0.00,100,0.03
+NID046,Malai Kofta,Vegetarian,406,38.67,11.60,21.27,7.73,5.80,0.00,100,0.03
+NID047,Lahori Chicken,Non-Vegetarian,374,23.37,26.18,16.83,8.41,5.61,46.75,100,0.07
+NID048,Jeera Rice,Vegetarian,318,46.76,6.55,9.35,4.68,4.68,0.00,100,0.02
+NID049,Pakistani Biryani,Vegetarian,482,68.11,15.72,18.86,9.43,8.38,52.39,100,0.03
+NID050,Vegetable Pulao,Vegetarian,338,54.68,6.96,9.94,5.96,4.97,0.00,100,0.02
+NID051,Paneer Do Pyaza,Vegetarian,372,27.90,16.74,18.60,5.58,5.58,0.00,100,0.05
+NID052,Matar Pulao,Vegetarian,320,51.76,6.59,7.53,4.71,3.76,0.00,100,0.02
+NID053,Chana Daal,Vegetarian,312,43.87,14.62,7.80,4.87,5.85,0.00,100,0.05
+NID054,Kadhi,Vegetarian,355,45.64,10.14,15.21,7.10,6.09,0.00,100,0.03
+NID055,Lassi with Fruit,Vegetarian,185,23.13,6.94,10.41,13.88,3.47,0.00,100,0.04
+NID056,Aloo Gobi,Vegetarian,320,45.00,8.00,12.00,6.00,5.00,0.00,100,0.03
+NID057,Dhokla,Vegetarian,196,38.11,5.44,4.36,5.44,3.27,0.00,100,0.03
+NID058,Dal Fry,Vegetarian,326,41.91,13.04,9.31,4.66,5.59,0.00,100,0.04
+NID059,Kachori,Vegetarian,289,52.02,8.09,10.40,5.78,4.62,0.00,100,0.03
+NID060,Shami Kebab,Vegetarian,275,9.82,24.55,14.73,5.89,3.93,68.75,100,0.09
+NID061,Khasta Kachori,Vegetarian,282,45.12,9.02,11.28,5.64,4.51,0.00,100,0.03
+NID062,Rajma Chawal,Vegetarian,388,57.68,15.73,12.58,6.29,7.34,0.00,100,0.04
+NID063,Puri with Aloo,Vegetarian,367,52.43,8.39,15.73,7.34,6.29,0.00,100,0.02
+NID064,Chana Chaat,Vegetarian,209,40.64,6.97,5.81,3.48,4.64,0.00,100,0.03
+NID065,Moong Dal,Vegetarian,270,36.00,12.60,5.40,4.50,6.30,0.00,100,0.05
+NID066,Chicken Seekh Kebab,Non-Vegetarian,322,11.10,31.64,19.99,6.66,4.44,66.62,100,0.10
+NID067,Kachori with Sabzi,Vegetarian,302,48.54,8.63,10.79,6.47,5.39,0.00,100,0.03
+NID068,Palak Chaat,Vegetarian,207,27.00,5.40,6.30,3.60,3.60,0.00,100,0.03
+NID069,Navratan Dal,Vegetarian,329,47.00,11.28,8.46,5.64,5.64,0.00,100,0.03
+NID070,Dum Aloo,Vegetarian,410,51.25,12.30,18.45,7.18,7.18,0.00,100,0.03
+NID071,Chicken Biryani,Non-Vegetarian,490,63.91,23.43,19.17,9.59,7.46,53.26,100,0.05
+NID072,Vegetable Pakora,Vegetarian,230,34.50,5.75,11.50,8.05,5.75,0.00,100,0.03
+NID073,Sarson Da Saag,Vegetarian,375,53.57,10.71,16.07,8.57,5.36,0.00,100,0.03
+NID074,Chole,Vegetarian,332,47.43,14.23,7.59,3.79,6.64,0.00,100,0.04
+NID075,Paneer Lababdar,Vegetarian,410,31.89,16.40,20.04,5.47,6.38,0.00,100,0.04
+NID076,Chana Masala,Vegetarian,320,48.48,11.64,7.76,4.85,6.79,0.00,100,0.04
+NID077,Matar Paneer,Vegetarian,398,33.17,14.21,20.85,6.63,5.69,0.00,100,0.04
+NID078,Vegetable Pakora,Vegetarian,260,47.27,8.27,9.45,7.09,5.91,0.00,100,0.03
+NID079,Chana Batata,Vegetarian,255,40.80,8.16,7.14,5.10,6.12,0.00,100,0.03
+NID080,Gobhi Paratha,Vegetarian,289,46.45,7.23,9.29,6.19,5.16,0.00,100,0.03
+NID081,Paneer Ke Kebab,Vegetarian,275,9.48,23.71,14.22,5.69,3.79,47.41,100,0.09
+NID082,Vegetable Paratha,Vegetarian,309,53.28,7.46,9.59,6.39,5.33,0.00,100,0.02
+NID083,Moong Dal Chilla,Vegetarian,222,33.30,13.32,6.66,3.33,4.44,0.00,100,0.06
+NID084,Chana Chaat,Vegetarian,189,31.50,6.30,5.25,3.15,4.20,0.00,100,0.03
+NID085,Shahi Pulao,Vegetarian,395,51.73,9.40,14.11,7.52,6.58,0.00,100,0.02
+NID086,Chana Daal,Vegetarian,312,43.87,14.62,7.80,4.87,5.85,0.00,100,0.05
+NID087,Gobhi Masala,Vegetarian,318,42.40,8.48,14.84,5.30,6.36,0.00,100,0.03
+NID088,Chicken Korma,Non-Vegetarian,418,30.48,17.42,19.16,8.71,6.10,52.25,100,0.04
+NID089,Pulao,Vegetarian,342,53.74,7.82,9.77,5.86,4.89,0.00,100,0.02
+NID090,Dal Makhani,Vegetarian,380,45.24,16.29,10.86,6.33,5.43,0.00,100,0.04
+NID091,Malai Kofta,Vegetarian,445,42.38,15.89,26.49,6.36,7.42,0.00,100,0.04
+NID092,Chole Bhature,Vegetarian,484,58.08,15.49,19.36,7.74,5.81,0.00,100,0.03
+NID093,Aloo Methi,Vegetarian,318,39.75,7.95,13.91,4.97,5.96,0.00,100,0.03
+NID094,Paneer Pakora,Vegetarian,288,33.60,9.60,11.52,6.72,3.84,0.00,100,0.03
+NID095,Bajra Khichdi,Vegetarian,322,50.31,8.05,10.06,6.04,5.03,0.00,100,0.03
+NID096,Chicken Malai Kebab,Non-Vegetarian,302,5.59,31.88,20.13,8.95,4.47,67.11,100,0.11
+NID097,Methi Thepla,Vegetarian,256,40.96,6.14,8.19,4.10,5.12,0.00,100,0.02
+NID098,Chicken Tikka Masala,Non-Vegetarian,440,38.26,23.91,19.13,7.65,6.70,66.96,100,0.05
+NID099,Roti,Vegetarian,158,31.60,5.27,2.11,4.21,3.16,0.00,100,0.03
+NID100,Poori with Sabzi,Vegetarian,363,51.86,7.26,15.56,7.26,6.22,0.00,100,0.02
+NID101,Khichdi,Vegetarian,331,56.89,12.41,7.24,6.21,6.21,0.00,100,0.04
+NID102,Paneer Pasanda,Vegetarian,464,33.83,17.40,24.65,6.77,5.80,0.00,100,0.04
+NID103,Palak Chaat,Vegetarian,282,49.04,9.81,12.26,8.58,7.36,0.00,100,0.03
+NID104,Butter Naan,Vegetarian,280,50.40,7.84,8.96,5.60,5.60,0.00,100,0.03
+NID105,Chana Pulao,Vegetarian,353,56.87,9.81,8.83,4.90,6.86,0.00,100,0.03
+NID106,Vegetable Tikka,Vegetarian,330,35.36,14.14,21.21,7.07,5.89,0.00,100,0.04
+NID107,Murgh Malai Tikka,Vegetarian,322,16.10,26.83,19.32,5.37,5.37,64.40,100,0.08
+NID108,Lassi with Mango,Vegetarian,216,38.12,7.62,10.16,15.25,3.81,0.00,100,0.04
+NID109,Pav Bhaji,Vegetarian,355,45.64,10.14,15.21,5.07,6.09,0.00,100,0.03
+NID110,Dal Bati Churma,Vegetarian,498,59.76,14.94,21.91,8.96,6.97,0.00,100,0.03
+NID111,Paneer Tikka Masala,Vegetarian,410,31.20,16.04,19.61,7.13,5.35,0.00,100,0.04
+NID112,Keema Paratha,Vegetarian,402,54.32,10.86,19.56,6.52,5.43,0.00,100,0.03
+NID113,Vegetable Biryani,Vegetarian,434,59.18,7.89,17.75,6.90,4.93,0.00,100,0.02
+NID114,Chutney,Vegetarian,73,21.90,1.46,1.46,7.30,2.92,0.00,100,0.02
+NID115,Khakra,Vegetarian,240,40.00,8.00,9.14,5.71,4.57,0.00,100,0.03
+NID116,Chana Daals,Vegetarian,328,51.25,14.35,8.20,6.15,6.15,0.00,100,0.04
+NID117,Jeera Aloo,Vegetarian,266,36.10,5.70,9.50,4.75,4.75,0.00,100,0.02
+NID118,Kaladi Kebab,Vegetarian,320,11.03,27.59,22.07,6.62,5.52,66.21,100,0.09
+NID119,Puri with Aloo,Vegetarian,316,44.44,6.91,11.85,5.92,5.92,0.00,100,0.02
+NID120,Puran Poli,Vegetarian,340,56.67,9.07,13.60,10.20,5.67,0.00,100,0.03
+NID121,Sabzi Pulao,Vegetarian,340,47.22,7.56,11.33,6.61,4.72,0.00,100,0.02
+NID122,Khoya Mawa,Vegetarian,355,39.94,8.88,13.31,15.98,2.66,0.00,100,0.03
+NID123,Dal Baati,Vegetarian,462,57.75,14.44,17.33,7.70,5.78,0.00,100,0.03
+NID124,Pineapple Raita,Vegetarian,154,22.00,5.50,6.60,8.80,3.30,0.00,100,0.04
+NID125,Masala Papad,Vegetarian,133,22.17,2.22,5.54,7.76,3.33,0.00,100,0.02
+NID126,Chana Masala,Vegetarian,340,53.43,11.66,7.77,4.86,6.80,0.00,100,0.03
+NID127,Methi Thepla,Vegetarian,275,45.83,8.15,7.13,4.07,5.09,0.00,100,0.03
+NID128,Shahi Paneer,Vegetarian,425,32.34,13.86,23.10,6.47,5.54,0.00,100,0.03
+NID129,Amritsari Kulcha,Vegetarian,331,57.07,9.13,12.56,6.85,5.71,0.00,100,0.03
+NID130,Vegetable Korma,Vegetarian,400,43.90,9.76,19.51,5.85,5.85,0.00,100,0.02
+NID131,Keema Methi,Vegetarian,382,27.29,22.74,16.37,6.37,5.46,36.38,100,0.06
+NID132,Rajma with Rice,Vegetarian,384,57.08,14.53,12.45,5.19,7.26,0.00,100,0.04
+NID133,Puran Poli,Vegetarian,322,46.00,7.36,9.20,9.20,3.68,0.00,100,0.02
+NID134,Methi Paratha,Vegetarian,280,43.45,6.76,7.72,4.83,4.83,0.00,100,0.02
+NID135,Murg Pulao,Vegetarian,502,65.48,27.28,19.64,9.82,7.64,54.57,100,0.05
+NID136,Aloo Baingan,Vegetarian,320,45.00,8.00,12.00,6.00,5.00,0.00,100,0.03
+NID137,Balti Gosht,Vegetarian,420,30.63,21.88,17.50,8.75,6.12,52.50,100,0.05
+NID138,Paneer Makhanwala,Vegetarian,437,33.99,17.48,24.28,6.80,5.83,0.00,100,0.04
+NID139,Khichdi,Vegetarian,320,50.00,12.00,8.00,5.00,6.00,0.00,100,0.04
+NID140,Vegetable Samosa,Vegetarian,250,39.77,5.68,11.36,7.95,5.68,0.00,100,0.02
+NID141,Pakodi,Vegetarian,300,48.00,9.60,14.40,7.20,6.00,0.00,100,0.03
+NID142,Gajar Ka Halwa,Vegetarian,256,36.57,5.49,7.31,16.46,2.74,0.00,100,0.02
+NID143,Chana Chaat,Vegetarian,189,31.50,6.30,5.25,3.15,4.20,0.00,100,0.03
+NID144,Chaas,Vegetarian,118,9.83,5.90,5.90,6.88,2.95,0.00,100,0.05
+NID145,Lemon Rice,Vegetarian,333,55.50,8.07,9.08,5.05,6.05,0.00,100,0.02
+NID146,Palak Chaat,Vegetarian,220,28.70,6.70,7.65,5.74,3.83,0.00,100,0.03
+NID147,Masoor Dal,Vegetarian,294,45.62,15.21,6.08,5.07,6.08,0.00,100,0.05
+NID148,Chole Bhature,Vegetarian,500,65.00,15.00,20.00,8.00,6.00,0.00,100,0.03
+NID149,Shahi Tukda,Vegetarian,367,52.43,8.39,15.73,18.87,3.15,0.00,100,0.02
+NID150,Chana Aloo,Vegetarian,312,43.87,14.62,7.80,5.85,6.82,0.00,100,0.05
+NID151,Kadhi Pakora,Vegetarian,382,42.97,9.55,17.19,4.77,5.73,0.00,100,0.03
+NID152,Bhindi Masala,Vegetarian,296,39.47,6.91,11.84,4.93,5.92,0.00,100,0.02
+NID153,Dum Aloo,Vegetarian,420,55.26,11.05,22.11,6.63,6.63,0.00,100,0.03
+NID154,Malai Kebab,Vegetarian,275,9.82,24.55,14.73,5.89,3.93,58.93,100,0.09
+NID155,Vegetable Tikki,Vegetarian,258,36.12,7.22,10.32,7.22,5.16,0.00,100,0.03
+NID156,Aloo Gobi,Vegetarian,330,45.00,6.00,14.00,5.00,6.00,0.00,100,0.02
+NID157,Paneer Korma,Vegetarian,418,37.16,13.93,20.44,7.43,5.57,0.00,100,0.03
+NID158,Chana Pulao,Vegetarian,341,50.69,9.22,8.29,5.53,6.45,0.00,100,0.03
+NID159,Chicken Seekh Kebab,Non-Vegetarian,302,10.41,26.03,18.74,6.25,5.21,62.48,100,0.09
+NID160,Saag Aloo,Vegetarian,298,41.91,6.52,9.31,4.66,5.59,0.00,100,0.02
+NID161,Palak Paneer,Vegetarian,382,33.43,19.10,17.19,6.68,5.73,0.00,100,0.05
+NID162,Masala Khichdi,Vegetarian,349,56.46,12.32,9.24,7.19,6.16,0.00,100,0.04
+NID163,Gulab Jamun,Vegetarian,274,42.15,6.32,10.54,18.97,3.16,0.00,100,0.02
+NID164,Tandoori Chicken,Non-Vegetarian,322,4.60,26.22,16.56,5.52,4.60,64.40,100,0.08
+NID165,Chole Puri,Vegetarian,366,50.32,12.81,9.15,4.57,6.40,0.00,100,0.04
+NID166,Chana Masala,Vegetarian,320,48.48,11.64,7.76,4.85,6.79,0.00,100,0.04
+NID167,Paneer Lababdar,Vegetarian,452,34.39,14.74,25.06,7.86,5.90,0.00,100,0.03
+NID168,Vegetable Jalfrezi,Vegetarian,354,37.26,7.45,16.77,6.52,4.66,0.00,100,0.02
+NID169,Chana Daal,Vegetarian,312,43.87,14.62,7.80,4.87,5.85,0.00,100,0.05
+NID170,Dum Gosht,Vegetarian,485,39.59,24.74,24.74,9.90,6.93,59.39,100,0.05
+NID120,Chicken Curry,Non-Vegetarian,400,18.00,32.00,20.00,5.00,3.00,60.00,100,0.08
+SID101,Prawn Masala,Non-Vegetarian,450,15.00,30.00,25.00,4.00,2.50,75.00,100,0.07
+GJ112,Masala Bhindi,Vegetarian,220,18.00,7.00,15.00,5.00,4.00,0.00,100,0.03
+NID150,Paneer Butter Masala,Vegetarian,350,22.00,15.00,25.00,8.00,3.50,0.00,100,0.04
+SID045,Tomato Rasam,Vegetarian,180,35.00,5.00,3.00,7.00,2.50,0.00,100,0.03
+NID100,Chicken Biryani,Non-Vegetarian,550,65.00,20.00,22.00,6.00,4.50,70.00,100,0.04
+RJ060,Grilled Fish,Non-Vegetarian,400,10.00,30.00,18.00,3.00,1.00,80.00,100,0.08
+SID203,Ragi Dosa,Vegetarian,250,40.00,8.00,6.00,4.00,5.00,0.00,100,0.03
+GJ045,Sev Khamani,Vegetarian,220,35.00,8.00,9.00,5.00,4.50,0.00,100,0.04
+NID025,Moong Dal Chilla,Vegetarian,180,30.00,10.00,5.00,3.00,5.00,0.00,100,0.06
+SID013,Vegetable Kurma,Vegetarian,320,45.00,7.00,15.00,6.00,4.50,0.00,100,0.02
+RJ055,Dal Baati Churma,Vegetarian,500,70.00,12.00,20.00,8.00,7.00,0.00,100,0.02
+GJ075,Undhiyu,Vegetarian,350,45.00,10.00,15.00,6.00,5.00,0.00,100,0.03
+NID130,Butter Chicken,Non-Vegetarian,480,12.00,30.00,30.00,6.00,3.50,65.00,100,0.06
+SID058,Sambar,Vegetarian,150,25.00,7.00,5.00,4.00,6.00,0.00,100,0.05
+GJ060,Kadhi Pakora,Vegetarian,320,35.00,12.00,15.00,7.00,6.00,0.00,100,0.04
+NID140,Rajma,Vegetarian,350,50.00,15.00,10.00,4.00,8.00,0.00,100,0.04
+SID077,Idli,Vegetarian,150,30.00,5.00,2.00,2.00,4.00,0.00,100,0.03
+GJ065,Khichdi,Vegetarian,280,50.00,8.00,6.00,4.00,5.00,0.00,100,0.03
+NID110,Mutton Rogan Josh,Non-Vegetarian,500,15.00,35.00,30.00,6.00,3.50,80.00,100,0.07
+SID152,Vegetable Pulao,Vegetarian,380,65.00,8.00,12.00,6.00,4.50,0.00,100,0.02
+GJ140,Chana Masala,Vegetarian,300,45.00,15.00,8.00,5.00,6.00,0.00,100,0.05
+NID115,Chicken Korma,Non-Vegetarian,450,20.00,30.00,25.00,5.00,3.50,65.00,100,0.07
+SID111,Vegetable Biryani,Vegetarian,380,60.00,10.00,12.00,5.00,4.00,0.00,100,0.03
+GJ125,Papad,Vegetarian,100,25.00,2.00,0.50,0.00,2.50,0.00,100,0.02
+NID135,Palak Paneer,Vegetarian,350,18.00,15.00,20.00,5.00,4.50,0.00,100,0.04
+SID009,Besan Chilla,Vegetarian,240,30.00,12.00,8.00,3.00,6.00,0.00,100,0.05
+GJ085,Masala Dosa,Vegetarian,350,50.00,8.00,15.00,5.00,4.50,0.00,100,0.02
+NID145,Chicken Seekh Kebab,Non-Vegetarian,500,10.00,30.00,35.00,4.00,3.00,75.00,100,0.06
+SID155,Masala Prawn,Non-Vegetarian,400,15.00,30.00,25.00,5.00,3.50,80.00,100,0.08
+GJ110,Handvo,Vegetarian,280,40.00,12.00,10.00,6.00,4.00,0.00,100,0.04
+NID160,Chole Bhature,Vegetarian,550,75.00,20.00,20.00,8.00,7.00,0.00,100,0.04
+NID170,Grilled Chicken Breast,Non-Vegetarian,250,0.00,50.00,6.00,0.00,1.00,85.00,100,0.20
+SID160,Vegetable Stew,Vegetarian,220,35.00,8.00,8.00,4.00,5.00,0.00,100,0.04
+GJ150,Shakshuka,Vegetarian,350,35.00,20.00,15.00,5.00,6.00,0.00,100,0.06
+NID175,Chicken Shawarma,Non-Vegetarian,400,30.00,35.00,18.00,4.00,3.50,90.00,100,0.09
+SID180,Masoor Dal,Vegetarian,280,50.00,15.00,8.00,4.00,8.00,0.00,100,0.05
+GJ160,Pulao with Paneer,Vegetarian,370,50.00,15.00,12.00,6.00,4.50,0.00,100,0.04
+NID180,Beef Steak,Non-Vegetarian,500,0.00,45.00,30.00,0.00,0.00,80.00,100,0.09
+SID190,Idli Sambar,Vegetarian,300,50.00,10.00,8.00,5.00,6.00,0.00,100,0.03
+GJ170,Khaman Dhokla,Vegetarian,250,45.00,8.00,8.00,5.00,5.00,0.00,100,0.03
+NID185,Tandoori Chicken,Non-Vegetarian,380,10.00,40.00,18.00,3.00,2.00,75.00,100,0.11
+SID200,Vegetable Pulao with Tofu,Vegetarian,350,60.00,12.00,12.00,5.00,5.00,0.00,100,0.03
+GJ180,Chole,Vegetarian,300,50.00,14.00,10.00,5.00,7.00,0.00,100,0.05
+NID190,Butter Chicken,Non-Vegetarian,450,12.00,32.00,30.00,6.00,4.00,70.00,100,0.07
+SID210,Vegetable Sambar,Vegetarian,230,35.00,8.00,6.00,3.00,4.50,0.00,100,0.03
+GJ190,Moong Dal Chilla,Vegetarian,250,35.00,14.00,8.00,3.00,6.00,0.00,100,0.06
+NID200,Grilled Fish with Lemon,Non-Vegetarian,300,10.00,25.00,15.00,2.00,1.50,85.00,100,0.08
+SID220,Pongal,Vegetarian,350,50.00,8.00,12.00,4.00,5.50,0.00,100,0.02
+GJ200,Khichdi with Ghee,Vegetarian,320,50.00,12.00,12.00,4.00,5.00,0.00,100,0.04
+NID210,Chicken Korma,Non-Vegetarian,500,18.00,32.00,30.00,5.00,4.00,70.00,100,0.06
+SID230,Vegetable Biryani,Vegetarian,400,60.00,10.00,12.00,6.00,5.00,0.00,100,0.03
+GJ210,Fulwadi,Vegetarian,350,55.00,10.00,12.00,6.00,6.00,0.00,100,0.03
+NID220,Mutton Keema,Non-Vegetarian,450,12.00,35.00,28.00,5.00,3.00,90.00,100,0.08
+SID240,Tomato Chutney,Vegetarian,150,35.00,5.00,2.00,7.00,3.50,0.00,100,0.03
+GJ220,Shrimp Curry,Non-Vegetarian,420,15.00,30.00,20.00,6.00,3.00,85.00,100,0.07
+NID230,Chicken Tikka,Non-Vegetarian,350,8.00,30.00,20.00,4.00,3.00,75.00,100,0.09
+SID250,Avocado Salad,Vegetarian,300,15.00,6.00,20.00,5.00,7.00,0.00,100,0.02
+GJ230,Patra,Vegetarian,250,30.00,8.00,12.00,5.00,6.00,0.00,100,0.03
+NID240,Mutton Biryani,Non-Vegetarian,550,65.00,25.00,25.00,6.00,4.00,80.00,100,0.05
+SID260,Spinach Dal,Vegetarian,280,45.00,14.00,10.00,5.00,7.00,0.00,100,0.05
+GJ240,Pineapple Chutney,Vegetarian,120,30.00,2.00,1.00,8.00,3.50,0.00,100,0.02
+NID250,Beef Curry,Non-Vegetarian,480,15.00,35.00,25.00,4.00,3.50,85.00,100,0.07
+SID270,Vegetable Pakora,Vegetarian,250,30.00,8.00,12.00,4.00,5.00,0.00,100,0.03
+GJ250,Lauki Thepla,Vegetarian,300,50.00,12.00,10.00,4.00,6.00,0.00,100,0.04
+NID260,Chicken Masala,Non-Vegetarian,450,18.00,35.00,22.00,6.00,4.00,75.00,100,0.08
+SID280,Vegetable Dosa,Vegetarian,300,50.00,8.00,12.00,5.00,4.50,0.00,100,0.03
+GJ260,Moong Dal Khichdi,Vegetarian,280,50.00,12.00,6.00,4.00,5.00,0.00,100,0.04
+NID270,Grilled Salmon,Non-Vegetarian,400,0.00,40.00,25.00,2.00,1.50,70.00,100,0.10
+SID290,Bajra Khichdi,Vegetarian,330,50.00,8.00,10.00,5.00,6.00,0.00,100,0.02
+GJ270,Bhel Puri,Vegetarian,280,40.00,6.00,12.00,8.00,3.50,0.00,100,0.02
+NID280,Tandoori Fish,Non-Vegetarian,350,5.00,30.00,20.00,4.00,2.00,80.00,100,0.09
+SID300,Vegetable Pulav with Tofu,Vegetarian,380,55.00,15.00,15.00,6.00,4.00,0.00,100,0.04
+GJ280,Sev Usal,Vegetarian,350,50.00,12.00,10.00,7.00,5.00,0.00,100,0.03
+NID290,Grilled Chicken with Veggies,Non-Vegetarian,380,10.00,35.00,20.00,5.00,3.50,70.00,100,0.09
+SID310,Vegetable Soup,Vegetarian,180,30.00,8.00,4.00,4.00,3.50,0.00,100,0.04
+GJ290,Chaas,Vegetarian,90,10.00,5.00,4.00,6.00,1.50,0.00,100,0.06
+NID300,Chicken Salad,Non-Vegetarian,350,5.00,35.00,18.00,4.00,2.00,85.00,100,0.10
+SID320,Onion Raita,Vegetarian,120,10.00,5.00,6.00,7.00,1.50,0.00,100,0.04
+GJ300,Chutney Sandwich,Vegetarian,350,55.00,8.00,12.00,6.00,4.00,0.00,100,0.02
+NID310,Chicken Pulao,Non-Vegetarian,450,60.00,25.00,12.00,5.00,5.50,60.00,100,0.06
+SID330,Vegetable Tofu Stir-Fry,Vegetarian,280,40.00,12.00,10.00,6.00,5.00,0.00,100,0.04
+NID320,Grilled Tofu,Vegetarian,150,8.00,18.00,8.00,1.00,2.00,0.00,100,0.12
+SID340,Vegetable Soup,Vegetarian,100,20.00,6.00,2.00,3.00,3.50,0.00,100,0.06
+GJ310,Spinach and Paneer,Vegetarian,180,12.00,15.00,8.00,2.00,3.00,0.00,100,0.08
+NID330,Boiled Egg Whites,Non-Vegetarian,100,2.00,20.00,0.50,0.00,0.00,0.00,100,0.20
+SID350,Cucumber Salad,Vegetarian,50,10.00,2.00,0.50,3.00,1.50,0.00,100,0.04
+GJ320,Zucchini Stir Fry,Vegetarian,120,25.00,5.00,2.00,6.00,5.00,0.00,100,0.04
+NID340,Chicken Breast (Grilled),Non-Vegetarian,230,0.00,45.00,5.00,0.00,0.50,70.00,100,0.20
+SID360,Tomato Soup,Vegetarian,80,15.00,4.00,1.00,5.00,2.00,0.00,100,0.05
+GJ330,Baked Salmon,Non-Vegetarian,250,0.00,22.00,15.00,1.00,0.50,65.00,100,0.09
+NID350,Steamed Broccoli,Vegetarian,55,10.00,4.00,0.50,2.00,5.00,0.00,100,0.07
+SID370,Grilled Cauliflower,Vegetarian,110,20.00,5.00,3.00,4.00,5.00,0.00,100,0.05
+GJ340,Chia Pudding,Vegetarian,150,15.00,5.00,8.00,5.00,4.00,0.00,100,0.03
+NID360,Lean Beef (Grilled),Non-Vegetarian,290,0.00,40.00,15.00,0.00,0.00,75.00,100,0.14
+SID380,Carrot Salad,Vegetarian,90,20.00,3.00,0.50,5.00,5.00,0.00,100,0.03
+GJ350,Paneer Bhurji,Vegetarian,200,10.00,14.00,12.00,5.00,2.00,0.00,100,0.07
+NID370,Tuna Salad,Non-Vegetarian,180,5.00,30.00,6.00,1.00,3.00,55.00,100,0.17
+SID390,Broccoli Stir Fry,Vegetarian,120,20.00,6.00,2.00,3.00,6.00,0.00,100,0.05
+GJ360,Spaghetti Squash with Veggies,Vegetarian,140,28.00,5.00,2.00,7.00,5.00,0.00,100,0.04
+NID380,Turkey Breast,Non-Vegetarian,190,0.00,40.00,3.00,0.00,0.50,60.00,100,0.21
+SID400,Grilled Asparagus,Vegetarian,70,12.00,3.00,2.00,3.00,5.00,0.00,100,0.04
+GJ370,Greek Yogurt with Berries,Vegetarian,180,25.00,10.00,4.00,7.00,5.00,0.00,100,0.06
+NID390,Grilled Shrimp,Non-Vegetarian,220,0.00,35.00,8.00,1.00,1.50,85.00,100,0.16
+SID410,Zucchini Noodles,Vegetarian,80,15.00,3.00,1.00,5.00,4.00,0.00,100,0.04
+GJ380,Green Bean Stir Fry,Vegetarian,100,15.00,4.00,2.00,3.00,5.00,0.00,100,0.04
+NID400,Chicken Caesar Salad,Non-Vegetarian,350,5.00,30.00,18.00,3.00,3.00,60.00,100,0.09
+SID420,Watermelon Salad,Vegetarian,50,12.00,1.00,0.50,5.00,1.00,0.00,100,0.02
+GJ390,Baked Sweet Potato,Vegetarian,150,35.00,4.00,0.50,10.00,5.00,0.00,100,0.03
+NID410,Grilled Chicken with Salad,Non-Vegetarian,280,5.00,35.00,15.00,3.00,3.50,70.00,100,0.13
+SID430,Carrot and Celery Sticks,Vegetarian,60,14.00,2.00,0.50,6.00,3.00,0.00,100,0.03
+GJ400,Chickpea Salad,Vegetarian,220,35.00,8.00,6.00,5.00,6.00,0.00,100,0.04
+NID420,Grilled Fish with Veggies,Non-Vegetarian,280,6.00,28.00,12.00,2.00,2.50,75.00,100,0.10
+SID440,Tomato Cucumber Salad,Vegetarian,40,8.00,2.00,0.50,4.00,2.00,0.00,100,0.05
+GJ410,Avocado Toast,Vegetarian,220,30.00,5.00,10.00,5.00,7.00,0.00,100,0.02
+NID430,Baked Chicken Wings,Non-Vegetarian,300,0.00,30.00,20.00,0.00,0.00,75.00,100,0.10
+SID450,Grilled Mushrooms,Vegetarian,110,10.00,5.00,4.00,4.00,3.00,0.00,100,0.05
+GJ420,Raw Kale Salad,Vegetarian,120,10.00,6.00,5.00,3.00,7.00,0.00,100,0.05
+NID440,Chicken Stir Fry with Veggies,Non-Vegetarian,250,10.00,30.00,10.00,5.00,3.00,65.00,100,0.12
+SID460,Baked Kale Chips,Vegetarian,90,15.00,4.00,2.00,4.00,5.00,0.00,100,0.04
+GJ430,Vegetable Stir Fry,Vegetarian,150,25.00,5.00,4.00,6.00,6.00,0.00,100,0.03
+NID450,Tilapia Fillet,Non-Vegetarian,220,0.00,30.00,10.00,1.00,2.50,65.00,100,0.14
+SID470,Grilled Peppers,Vegetarian,90,20.00,3.00,1.00,5.00,5.00,0.00,100,0.03
+GJ440,Boiled Chickpeas,Vegetarian,130,20.00,7.00,2.00,4.00,6.00,0.00,100,0.05
+NID460,Grilled Zucchini,Vegetarian,70,14.00,3.00,1.50,3.00,4.00,0.00,100,0.04
+SID480,Avocado Salad,Vegetarian,150,15.00,3.00,10.00,4.00,5.00,0.00,100,0.02
+GJ450,Steamed Green Beans,Vegetarian,50,10.00,2.00,0.50,2.00,4.00,0.00,100,0.04
+NID470,Lean Ground Turkey,Non-Vegetarian,200,0.00,30.00,10.00,0.00,0.00,70.00,100,0.15
+SID490,Pea Soup,Vegetarian,90,20.00,6.00,1.00,4.00,5.00,0.00,100,0.07
+GJ460,Quinoa Salad,Vegetarian,180,30.00,6.00,4.00,3.00,5.00,0.00,100,0.03
+NID480,Grilled Shrimp Skewers,Non-Vegetarian,220,0.00,25.00,10.00,1.00,1.50,90.00,100,0.11
+SID500,Steamed Sweet Corn,Vegetarian,100,22.00,4.00,1.00,4.00,3.00,0.00,100,0.04
+GJ470,Stuffed Bell Peppers,Vegetarian,180,25.00,7.00,8.00,5.00,6.00,0.00,100,0.04
+NID490,Roast Pork,Non-Vegetarian,280,0.00,30.00,16.00,0.00,0.00,70.00,100,0.11
+SID510,Chickpea Soup,Vegetarian,120,22.00,8.00,3.00,4.00,6.00,0.00,100,0.07
+GJ480,Cabbage Stir Fry,Vegetarian,90,12.00,4.00,4.00,3.00,5.00,0.00,100,0.04
+NID500,Turkey Meatballs,Non-Vegetarian,210,10.00,25.00,10.00,2.00,2.00,60.00,100,0.12
+SID520,Grilled Spinach,Vegetarian,80,15.00,5.00,3.00,4.00,7.00,0.00,100,0.06
+GJ490,Beetroot Salad,Vegetarian,100,18.00,3.00,1.50,6.00,5.00,0.00,100,0.03
+NID510,Grilled Chicken Thigh,Non-Vegetarian,250,0.00,30.00,12.00,1.00,1.00,80.00,100,0.12
+SID530,Cucumber Tomato Salad,Vegetarian,70,15.00,3.00,1.00,4.00,4.00,0.00,100,0.04
+GJ500,Grilled Tempeh,Vegetarian,220,15.00,20.00,10.00,3.00,5.00,0.00,100,0.09
+NID520,Beef Jerky,Non-Vegetarian,250,5.00,30.00,12.00,2.00,0.00,65.00,100,0.12
+SID540,Boiled Green Beans,Vegetarian,60,12.00,3.00,0.50,4.00,4.50,0.00,100,0.05
+GJ510,Roasted Chickpeas,Vegetarian,140,24.00,7.00,3.50,5.00,7.00,0.00,100,0.05
+NID530,Grilled Mackerel,Non-Vegetarian,260,0.00,30.00,16.00,0.00,0.00,90.00,100,0.12
+SID550,Tofu Stir Fry,Vegetarian,180,15.00,14.00,8.00,5.00,4.00,0.00,100,0.08
+GJ520,Roast Butternut Squash,Vegetarian,110,25.00,3.00,1.00,6.00,6.00,0.00,100,0.03
+NID540,Grilled Cod,Non-Vegetarian,200,0.00,35.00,5.00,0.00,0.00,70.00,100,0.18
+SID560,Boiled Eggs with Avocado,Non-Vegetarian,200,5.00,12.00,15.00,1.00,3.00,100.00,100,0.06
+GJ530,Vegetable and Lentil Soup,Vegetarian,120,20.00,8.00,2.00,4.00,6.00,0.00,100,0.07
+NID550,Grilled Lamb Chops,Non-Vegetarian,290,0.00,35.00,18.00,0.00,0.00,75.00,100,0.12
+SID570,Cabbage Soup,Vegetarian,80,16.00,4.00,1.00,4.00,6.00,0.00,100,0.05
+GJ540,Baked Eggplant,Vegetarian,100,20.00,4.00,2.00,3.00,7.00,0.00,100,0.04
+NID560,Boiled Chicken with Veggies,Non-Vegetarian,220,10.00,28.00,8.00,4.00,3.00,70.00,100,0.13
+SID580,Grilled Asparagus with Garlic,Vegetarian,90,12.00,4.00,3.00,5.00,6.00,0.00,100,0.04
+GJ550,Steamed Brussels Sprouts,Vegetarian,70,10.00,5.00,3.00,3.00,5.00,0.00,100,0.07
+NID570,Grilled Fish Tacos,Non-Vegetarian,230,25.00,20.00,10.00,3.00,4.00,60.00,100,0.09
+SID590,Boiled Sweet Potato,Vegetarian,120,28.00,3.00,0.50,9.00,5.00,0.00,100,0.03
+GJ560,Shredded Chicken Salad,Non-Vegetarian,240,10.00,30.00,12.00,2.00,2.00,65.00,100,0.13
+NID580,Steamed Tilapia,Non-Vegetarian,200,0.00,35.00,8.00,0.00,0.00,60.00,100,0.18
+SID600,Grilled Tomato and Zucchini,Vegetarian,80,15.00,3.00,2.00,4.00,5.00,0.00,100,0.04
+SID610,Roasted Cauliflower,Vegetarian,90,12.00,4.00,4.00,3.00,6.00,0.00,100,0.04
+GJ570,Spicy Grilled Chicken,Non-Vegetarian,250,0.00,30.00,12.00,2.00,1.00,80.00,100,0.12
+NID590,Boiled Mung Beans,Vegetarian,120,23.00,8.00,1.00,4.00,6.00,0.00,100,0.07
+SID620,Grilled Tofu Skewers,Vegetarian,180,10.00,15.00,8.00,3.00,5.00,0.00,100,0.08
+GJ580,Steamed Broccoli,Vegetarian,50,10.00,4.00,1.00,3.00,5.00,0.00,100,0.08
+NID600,Chicken and Veg Stir Fry,Non-Vegetarian,240,20.00,25.00,8.00,5.00,5.00,75.00,100,0.10
+SID630,Spinach and Feta Omelette,Non-Vegetarian,190,5.00,15.00,12.00,2.00,2.00,75.00,100,0.08
+GJ590,Grilled Salmon,Non-Vegetarian,230,0.00,25.00,12.00,0.00,0.00,80.00,100,0.11
+NID610,Grilled Beef Steak,Non-Vegetarian,280,0.00,35.00,15.00,0.00,0.00,90.00,100,0.13
+SID640,Grilled Eggplant,Vegetarian,70,15.00,3.00,1.50,5.00,5.00,0.00,100,0.04
+GJ600,Tofu and Veggie Stir Fry,Vegetarian,180,15.00,12.00,8.00,4.00,6.00,0.00,100,0.07
+NID620,Grilled Chicken with Avocado,Non-Vegetarian,300,6.00,35.00,15.00,2.00,4.00,90.00,100,0.12
+SID650,Steamed Carrot and Peas,Vegetarian,70,15.00,3.00,2.00,4.00,6.00,0.00,100,0.04
+GJ610,Grilled Shrimp,Non-Vegetarian,190,0.00,30.00,7.00,1.00,1.00,70.00,100,0.16
+NID630,Boiled Sweet Potato,Vegetarian,110,26.00,3.00,0.50,6.00,5.00,0.00,100,0.03
+SID660,Steamed Fish with Vegetables,Non-Vegetarian,220,5.00,25.00,10.00,3.00,5.00,80.00,100,0.11
+GJ620,Boiled Lentils,Vegetarian,110,20.00,8.00,1.00,3.00,5.00,0.00,100,0.07
+NID640,Grilled Trout,Non-Vegetarian,220,0.00,30.00,10.00,0.00,0.00,75.00,100,0.14
+SID670,Boiled Broccoli,Vegetarian,60,10.00,4.00,1.00,3.00,6.00,0.00,100,0.07
+GJ630,Steamed Methi (Fenugreek),Vegetarian,70,14.00,5.00,1.00,3.00,7.00,0.00,100,0.07
+NID650,Roasted Chicken with Veggies,Non-Vegetarian,280,10.00,30.00,14.00,3.00,5.00,80.00,100,0.11
+SID680,Vegetable Curry,Vegetarian,150,30.00,6.00,5.00,4.00,8.00,0.00,100,0.04
+GJ640,Roasted Cauliflower with Spices,Vegetarian,90,18.00,4.00,2.50,4.00,7.00,0.00,100,0.04
+NID660,Grilled Fish with Lemon,Non-Vegetarian,200,0.00,30.00,8.00,1.00,0.00,80.00,100,0.15
+SID690,Roast Chicken Breast,Non-Vegetarian,200,0.00,35.00,7.00,1.00,0.00,75.00,100,0.18
+GJ650,Tofu Scramble,Vegetarian,160,5.00,12.00,10.00,3.00,5.00,0.00,100,0.08
+NID670,Grilled Pork,Non-Vegetarian,300,0.00,35.00,18.00,0.00,0.00,80.00,100,0.12
+SID700,Vegetable Soup,Vegetarian,100,20.00,5.00,2.00,4.00,7.00,0.00,100,0.05
+GJ660,Grilled Aubergine,Vegetarian,80,16.00,4.00,3.00,5.00,5.00,0.00,100,0.05
+NID680,Grilled Chicken Salad,Non-Vegetarian,230,10.00,30.00,10.00,2.00,3.00,70.00,100,0.13
+SID710,Chickpea Stew,Vegetarian,150,30.00,8.00,4.00,5.00,8.00,0.00,100,0.05
+GJ670,Grilled Tuna,Non-Vegetarian,210,0.00,30.00,10.00,0.00,0.00,75.00,100,0.14
+NID690,Vegetable SautÃ©,Vegetarian,120,20.00,5.00,3.00,4.00,6.00,0.00,100,0.04
+SID720,Roasted Pumpkin,Vegetarian,100,22.00,3.00,1.50,6.00,5.00,0.00,100,0.03
+GJ680,Spicy Grilled Tofu,Vegetarian,180,10.00,15.00,8.00,5.00,6.00,0.00,100,0.08
+NID700,Grilled Chicken with Veggies,Non-Vegetarian,250,15.00,30.00,10.00,4.00,5.00,70.00,100,0.12
+SID730,Spinach and Mushroom Stir Fry,Vegetarian,120,10.00,5.00,5.00,3.00,6.00,0.00,100,0.04
+GJ690,Grilled Vegetable Salad,Vegetarian,140,20.00,7.00,6.00,4.00,8.00,0.00,100,0.05
+NID710,Grilled Lamb,Non-Vegetarian,300,0.00,35.00,15.00,0.00,0.00,85.00,100,0.12
+SID740,Vegetable and Chickpea Curry,Vegetarian,160,25.00,8.00,5.00,4.00,7.00,0.00,100,0.05
+SID750,Quinoa Salad,Vegetarian,220,40.00,7.00,4.00,2.00,6.00,0.00,100,0.03
+GJ700,Lentil and Sweet Potato Curry,Vegetarian,250,45.00,9.00,7.00,5.00,8.00,0.00,100,0.04
+NID720,Grilled Salmon and Avocado,Non-Vegetarian,350,15.00,30.00,20.00,2.00,7.00,80.00,100,0.09
+SID760,Baked Tofu with Veggies,Vegetarian,250,20.00,20.00,12.00,3.00,7.00,0.00,100,0.08
+GJ710,Chicken and Chickpea Stir Fry,Non-Vegetarian,300,35.00,25.00,12.00,3.00,5.00,90.00,100,0.08
+NID730,Grilled Shrimp and Brown Rice,Non-Vegetarian,330,40.00,25.00,10.00,2.00,4.00,90.00,100,0.08
+SID770,Vegetable Lentil Soup,Vegetarian,210,35.00,10.00,6.00,3.00,7.00,0.00,100,0.05
+GJ720,Paneer and Spinach Curry,Vegetarian,300,25.00,18.00,18.00,5.00,6.00,40.00,100,0.06
+NID740,Chicken and Quinoa Salad,Non-Vegetarian,350,25.00,30.00,15.00,3.00,5.00,75.00,100,0.09
+SID780,Grilled Vegetable Skewers,Vegetarian,150,30.00,6.00,4.00,3.00,5.00,0.00,100,0.04
+GJ730,Grilled Fish with Roasted Veggies,Non-Vegetarian,250,20.00,25.00,12.00,2.00,5.00,75.00,100,0.10
+NID750,Grilled Lamb with Veggies,Non-Vegetarian,350,20.00,30.00,18.00,0.00,6.00,80.00,100,0.09
+SID790,Stuffed Bell Peppers,Vegetarian,200,40.00,8.00,3.00,4.00,6.00,0.00,100,0.04
+GJ740,Spicy Baked Fish,Non-Vegetarian,280,10.00,25.00,15.00,1.00,5.00,75.00,100,0.09
+NID760,Tofu and Vegetable Stir Fry,Vegetarian,220,25.00,15.00,10.00,4.00,7.00,0.00,100,0.07
+SID800,Masoor Dal with Rice,Vegetarian,300,45.00,15.00,6.00,5.00,8.00,0.00,100,0.05
+GJ750,Chicken Breast with Roasted Sweet Potato,Non-Vegetarian,350,40.00,30.00,12.00,2.00,6.00,70.00,100,0.09
+NID770,Grilled Veggie and Hummus Wrap,Vegetarian,250,35.00,10.00,8.00,3.00,6.00,0.00,100,0.04
+SID810,Vegetable and Chicken Soup,Non-Vegetarian,220,25.00,18.00,8.00,3.00,7.00,0.00,100,0.08
+GJ760,Grilled Paneer Tikka,Vegetarian,290,15.00,25.00,18.00,5.00,4.00,30.00,100,0.09
+NID780,Spicy Lentil Stew,Vegetarian,230,40.00,12.00,7.00,3.00,7.00,0.00,100,0.05
+SID820,Vegetable Frittata,Vegetarian,240,15.00,20.00,14.00,2.00,5.00,60.00,100,0.08
+GJ770,Tofu and Mango Salad,Vegetarian,270,35.00,12.00,14.00,6.00,8.00,0.00,100,0.04
+NID790,Grilled Salmon with Avocado Salsa,Non-Vegetarian,340,12.00,28.00,20.00,2.00,5.00,75.00,100,0.08
+SID830,Quinoa and Roasted Vegetable Bowl,Vegetarian,260,40.00,8.00,7.00,4.00,6.00,0.00,100,0.03
+GJ780,Roasted Chicken with Sweet Potato Mash,Non-Vegetarian,350,35.00,30.00,15.00,4.00,8.00,70.00,100,0.09
+NID800,Vegetable and Lentil Wrap,Vegetarian,270,45.00,12.00,8.00,3.00,7.00,0.00,100,0.04
+SID840,Chicken Caesar Salad,Non-Vegetarian,300,15.00,25.00,18.00,4.00,7.00,80.00,100,0.08
+GJ790,Stuffed Zucchini with Feta,Vegetarian,220,20.00,12.00,12.00,3.00,6.00,0.00,100,0.05
+NID810,Chicken Stir Fry with Veggies,Non-Vegetarian,330,30.00,25.00,15.00,3.00,6.00,70.00,100,0.08
+SID850,Baked Falafel with Tahini Sauce,Vegetarian,280,35.00,12.00,10.00,5.00,7.00,0.00,100,0.04
+GJ800,Grilled Fish with Couscous,Non-Vegetarian,300,35.00,25.00,10.00,2.00,5.00,80.00,100,0.08
+NID820,Tofu and Vegetable Stir Fry,Vegetarian,250,30.00,15.00,10.00,4.00,7.00,0.00,100,0.06
+SID860,Grilled Eggplant with Pesto,Vegetarian,220,18.00,8.00,14.00,4.00,5.00,0.00,100,0.04
+GJ810,Grilled Chicken with Veggie Quinoa,Non-Vegetarian,330,40.00,25.00,15.00,4.00,6.00,75.00,100,0.08
+NID830,Masala Chana with Brown Rice,Vegetarian,320,50.00,15.00,8.00,6.00,7.00,0.00,100,0.05
+SID870,Spicy Roasted Chickpeas,Vegetarian,200,30.00,10.00,8.00,3.00,7.00,0.00,100,0.05
+GJ820,Grilled Paneer with Spinach,Vegetarian,290,12.00,22.00,18.00,4.00,6.00,30.00,100,0.08
+NID840,Beef Stir Fry with Veggies,Non-Vegetarian,350,20.00,30.00,15.00,2.00,6.00,80.00,100,0.09
+SID880,Grilled Zucchini with Yogurt Sauce,Vegetarian,170,15.00,6.00,10.00,3.00,4.00,0.00,100,0.04
+GJ830,Tofu and Cauliflower Stir Fry,Vegetarian,230,18.00,18.00,12.00,4.00,6.00,0.00,100,0.08
+NID850,Grilled Chicken with Sweet Potato,Non-Vegetarian,320,35.00,30.00,14.00,3.00,7.00,70.00,100,0.09
+SID890,Vegetable Stir Fry with Tofu,Vegetarian,250,30.00,15.00,12.00,5.00,7.00,0.00,100,0.06
+GJ840,Grilled Turkey with Veggies,Non-Vegetarian,330,25.00,30.00,12.00,4.00,5.00,75.00,100,0.09
+NID860,Chickpea and Vegetable Curry,Vegetarian,280,45.00,12.00,8.00,4.00,6.00,0.00,100,0.04
+SID900,Chickpea and Spinach Soup,Vegetarian,250,40.00,12.00,6.00,4.00,8.00,0.00,100,0.05
+GJ850,Grilled Paneer with Vegetable Quinoa,Vegetarian,300,35.00,18.00,14.00,3.00,7.00,0.00,100,0.06
+NID870,Chicken Tikka with Cauliflower Rice,Non-Vegetarian,350,20.00,30.00,18.00,2.00,6.00,80.00,100,0.09
+SID910,Vegetable and Quinoa Stuffed Peppers,Vegetarian,240,45.00,12.00,6.00,4.00,8.00,0.00,100,0.05
+GJ860,Grilled Fish with Avocado Salad,Non-Vegetarian,320,15.00,30.00,18.00,2.00,5.00,75.00,100,0.09
+NID880,Roasted Chicken with Roasted Vegetables,Non-Vegetarian,360,30.00,35.00,20.00,3.00,7.00,80.00,100,0.10
+SID920,Lentil and Avocado Salad,Vegetarian,290,40.00,14.00,10.00,5.00,7.00,0.00,100,0.05
+GJ870,Chicken and Vegetable Skewers,Non-Vegetarian,310,30.00,28.00,12.00,3.00,6.00,75.00,100,0.09
+NID890,Vegetable and Tofu Stir Fry,Vegetarian,240,35.00,15.00,9.00,4.00,8.00,0.00,100,0.06
+SID930,Chana Masala with Rice,Vegetarian,350,50.00,15.00,8.00,5.00,8.00,0.00,100,0.04
+GJ880,Grilled Chicken with Roasted Sweet Potato,Non-Vegetarian,320,35.00,30.00,12.00,3.00,7.00,70.00,100,0.09
+NID900,Grilled Fish with Veggie Couscous,Non-Vegetarian,320,40.00,25.00,12.00,3.00,6.00,80.00,100,0.08
+SID940,Vegetable and Hummus Wrap,Vegetarian,220,30.00,10.00,8.00,3.00,6.00,0.00,100,0.05
+GJ890,Grilled Lamb with Quinoa,Non-Vegetarian,380,30.00,30.00,22.00,3.00,7.00,85.00,100,0.08
+NID910,Paneer and Vegetable Curry,Vegetarian,300,20.00,18.00,18.00,5.00,6.00,40.00,100,0.06
+SID950,Vegetable and Brown Rice Stir Fry,Vegetarian,270,45.00,12.00,6.00,4.00,8.00,0.00,100,0.04
+GJ900,Chicken and Cauliflower Rice Bowl,Non-Vegetarian,330,25.00,30.00,15.00,3.00,6.00,70.00,100,0.09
+NID920,Vegetable Lentil Soup with Quinoa,Vegetarian,290,45.00,15.00,8.00,5.00,7.00,0.00,100,0.05
+SID960,Grilled Tofu with Avocado Salad,Vegetarian,280,35.00,14.00,14.00,4.00,7.00,0.00,100,0.05
+GJ910,Beef and Veggie Stir Fry,Non-Vegetarian,350,30.00,30.00,15.00,2.00,6.00,85.00,100,0.09
+NID930,Lentil and Spinach Curry,Vegetarian,230,40.00,15.00,5.00,4.00,8.00,0.00,100,0.07
+SID970,Vegetable and Paneer Wrap,Vegetarian,290,35.00,18.00,14.00,3.00,7.00,0.00,100,0.06
+GJ920,Chicken and Spinach Salad,Non-Vegetarian,310,15.00,28.00,18.00,3.00,5.00,80.00,100,0.09
+NID940,Grilled Salmon with Roasted Sweet Potato,Non-Vegetarian,350,30.00,28.00,18.00,3.00,7.00,90.00,100,0.08
+SID980,Vegetable Biryani with Raita,Vegetarian,320,50.00,10.00,8.00,4.00,7.00,0.00,100,0.03
+GJ930,Grilled Turkey with Veggies,Non-Vegetarian,330,35.00,28.00,12.00,3.00,6.00,75.00,100,0.08
+NID950,Spicy Grilled Chicken Salad,Non-Vegetarian,330,20.00,30.00,15.00,2.00,7.00,75.00,100,0.09
+SID990,Lentil and Vegetable Stew,Vegetarian,250,45.00,12.00,6.00,3.00,7.00,0.00,100,0.05
+GJ940,Chicken and Mushroom Stir Fry,Non-Vegetarian,320,30.00,28.00,14.00,3.00,6.00,75.00,100,0.09
+NID960,Vegetable and Paneer Stir Fry,Vegetarian,270,30.00,18.00,12.00,4.00,7.00,30.00,100,0.07
+SID1000,Tofu and Broccoli Stir Fry,Vegetarian,240,25.00,18.00,12.00,4.00,7.00,0.00,100,0.08
+GJ950,Spicy Grilled Fish with Vegetables,Non-Vegetarian,320,25.00,28.00,15.00,2.00,5.00,75.00,100,0.09
+NID970,Chickpea and Spinach Stir Fry,Vegetarian,230,35.00,12.00,8.00,4.00,7.00,0.00,100,0.05
+SID1010,Quinoa and Vegetable Patties,Vegetarian,270,45.00,12.00,8.00,3.00,7.00,0.00,100,0.04
+GJ960,Grilled Chicken with Roasted Cauliflower,Non-Vegetarian,310,25.00,30.00,14.00,3.00,7.00,80.00,100,0.10
+NID980,Grilled Chicken with Sweet Potatoes,Non-Vegetarian,400,35.00,35.00,15.00,4.00,8.00,75.00,100,0.09
+SID1011,Tofu and Spinach Stir Fry,Vegetarian,270,25.00,18.00,10.00,3.00,7.00,0.00,100,0.07
+GJ970,Chicken and Quinoa Salad,Non-Vegetarian,350,40.00,30.00,12.00,3.00,6.00,80.00,100,0.09
+RJ850,Paneer and Vegetable Tikka,Vegetarian,320,35.00,20.00,15.00,4.00,7.00,40.00,100,0.06
+PN900,Masala Chicken with Rice,Non-Vegetarian,420,45.00,38.00,18.00,5.00,6.00,80.00,100,0.09
+WB800,Grilled Fish with Mixed Vegetables,Non-Vegetarian,350,30.00,30.00,12.00,3.00,7.00,85.00,100,0.09
+MA760,Lentil and Vegetable Stew,Vegetarian,250,45.00,12.00,6.00,3.00,8.00,0.00,100,0.05
+WI820,Vegetable Biryani with Yogurt,Vegetarian,300,50.00,12.00,8.00,4.00,7.00,0.00,100,0.04
+NID990,Grilled Salmon with Veggies,Non-Vegetarian,450,35.00,40.00,18.00,4.00,6.00,80.00,100,0.09
+SID1020,Chickpea and Tofu Salad,Vegetarian,350,40.00,25.00,10.00,3.00,9.00,0.00,100,0.07
+GJ980,Chicken and Brown Rice Bowl,Non-Vegetarian,400,40.00,35.00,14.00,5.00,6.00,75.00,100,0.09
+RJ860,Grilled Paneer with Vegetables,Vegetarian,380,35.00,25.00,20.00,3.00,8.00,40.00,100,0.07
+PN910,Spicy Grilled Fish with Quinoa,Non-Vegetarian,420,40.00,35.00,18.00,3.00,7.00,85.00,100,0.08
+WB810,Grilled Chicken with Salad,Non-Vegetarian,350,25.00,30.00,15.00,4.00,6.00,80.00,100,0.09
+MA770,Tofu and Veggie Stir Fry,Vegetarian,280,35.00,20.00,12.00,4.00,7.00,0.00,100,0.07
+WI830,Chickpea and Avocado Salad,Vegetarian,300,40.00,18.00,10.00,5.00,8.00,0.00,100,0.06
+NID1000,Spinach and Lentil Soup,Vegetarian,220,35.00,15.00,5.00,3.00,8.00,0.00,100,0.07
+SID1030,Tomato and Cucumber Salad,Vegetarian,150,25.00,8.00,4.00,2.00,5.00,0.00,100,0.05
+GJ990,Grilled Fish with Roasted Vegetables,Non-Vegetarian,300,20.00,28.00,12.00,3.00,5.00,70.00,100,0.09
+RJ870,Vegetable Soup with Quinoa,Vegetarian,250,40.00,12.00,6.00,3.00,8.00,0.00,100,0.05
+PN920,Grilled Chicken with Asparagus,Non-Vegetarian,350,15.00,30.00,14.00,3.00,6.00,80.00,100,0.09
+WB820,Chickpea and Spinach Curry,Vegetarian,240,40.00,18.00,6.00,4.00,7.00,0.00,100,0.08
+MA780,Roasted Vegetables with Tofu,Vegetarian,270,35.00,15.00,10.00,4.00,8.00,0.00,100,0.06
+WI840,Vegetable Salad with Lemon Dressing,Vegetarian,200,30.00,10.00,6.00,3.00,7.00,0.00,100,0.05
+NID1010,Grilled Chicken with Roasted Sweet Potato,Non-Vegetarian,380,35.00,30.00,18.00,4.00,6.00,75.00,100,0.08
+SID1040,Vegetable Stir Fry with Tofu,Vegetarian,280,40.00,18.00,10.00,4.00,8.00,0.00,100,0.06
+GJ1000,Lentil Salad with Roasted Vegetables,Vegetarian,320,45.00,20.00,12.00,3.00,8.00,0.00,100,0.06
+RJ880,Spicy Paneer and Veggies,Vegetarian,310,40.00,25.00,18.00,4.00,6.00,30.00,100,0.08
+PN930,Masala Grilled Fish with Vegetables,Non-Vegetarian,380,35.00,35.00,15.00,5.00,6.00,75.00,100,0.09
+WB830,Vegetable and Chickpea Soup,Vegetarian,240,35.00,20.00,8.00,3.00,7.00,0.00,100,0.08
+MA790,Tofu with Brown Rice and Veggies,Vegetarian,320,45.00,20.00,12.00,5.00,9.00,0.00,100,0.06
+WI850,Quinoa Salad with Roasted Veggies,Vegetarian,330,50.00,18.00,12.00,4.00,8.00,0.00,100,0.05
+NID1020,Chicken and Vegetable Stir Fry,Non-Vegetarian,400,35.00,35.00,16.00,5.00,7.00,70.00,100,0.09
+SID1050,Grilled Tofu with Avocado Salad,Vegetarian,300,25.00,20.00,14.00,3.00,7.00,0.00,100,0.07
+GJ1010,Vegetable and Chicken Stew,Non-Vegetarian,350,40.00,30.00,15.00,4.00,7.00,70.00,100,0.09
+RJ890,Grilled Paneer with Spinach,Vegetarian,300,30.00,25.00,15.00,5.00,8.00,30.00,100,0.08
+PN940,Grilled Salmon with Broccoli,Non-Vegetarian,450,35.00,38.00,18.00,4.00,8.00,85.00,100,0.08
+WB840,Grilled Vegetables with Tofu,Vegetarian,320,35.00,25.00,14.00,4.00,8.00,0.00,100,0.08
+MA800,Vegetable and Lentil Soup,Vegetarian,250,40.00,15.00,8.00,3.00,7.00,0.00,100,0.06
+WI860,Spicy Vegetable Biryani,Vegetarian,350,45.00,18.00,12.00,4.00,8.00,0.00,100,0.05
+MA810,Vegetable and Tofu Stir Fry,Vegetarian,290,40.00,18.00,12.00,4.00,8.00,0.00,100,0.06
+SID1060,Chana Masala with Rice,Vegetarian,350,50.00,15.00,10.00,5.00,7.00,0.00,100,0.04
+WB850,Vegetable Stew with Coconut Milk,Vegetarian,280,40.00,18.00,12.00,4.00,6.00,0.00,100,0.06
+MA820,Roasted Cauliflower with Chickpeas,Vegetarian,300,40.00,15.00,15.00,5.00,8.00,0.00,100,0.05
+SID1070,Avocado and Chickpea Salad,Vegetarian,320,35.00,20.00,14.00,4.00,9.00,0.00,100,0.06
+WB860,Grilled Paneer with Vegetables,Vegetarian,350,35.00,25.00,18.00,5.00,7.00,30.00,100,0.07
+MA830,Quinoa Salad with Grilled Tofu,Vegetarian,330,45.00,18.00,12.00,5.00,9.00,0.00,100,0.05
+SID1080,Spicy Lentil Soup,Vegetarian,240,35.00,15.00,8.00,4.00,7.00,0.00,100,0.06
+WB870,Vegetable and Lentil Curry,Vegetarian,270,40.00,20.00,8.00,4.00,7.00,0.00,100,0.07
+MA840,Chickpea and Spinach Stew,Vegetarian,290,40.00,18.00,10.00,5.00,9.00,0.00,100,0.06
+SID1090,Vegetable and Tofu Stir Fry,Vegetarian,280,35.00,18.00,12.00,4.00,8.00,0.00,100,0.06
+WB880,Vegetable and Chickpea Biryani,Vegetarian,360,50.00,20.00,12.00,4.00,8.00,0.00,100,0.06
+MA850,Grilled Tofu with Quinoa,Vegetarian,310,45.00,18.00,10.00,5.00,8.00,0.00,100,0.06
+SID1100,Tomato and Lentil Soup,Vegetarian,240,35.00,18.00,6.00,4.00,7.00,0.00,100,0.08
+WB890,Grilled Paneer with Mixed Vegetables,Vegetarian,340,35.00,25.00,18.00,5.00,8.00,30.00,100,0.07
+MA860,Tofu and Vegetable Stir Fry,Vegetarian,300,40.00,18.00,12.00,4.00,8.00,0.00,100,0.06
+SID1110,Chickpea and Spinach Salad,Vegetarian,320,40.00,20.00,14.00,4.00,9.00,0.00,100,0.06
+WB900,Vegetable and Tofu Soup,Vegetarian,250,35.00,18.00,10.00,4.00,8.00,0.00,100,0.07
+MA870,Lentil and Spinach Curry,Vegetarian,280,40.00,18.00,8.00,4.00,7.00,0.00,100,0.06
+SID1120,Grilled Tofu with Brown Rice,Vegetarian,330,45.00,18.00,12.00,5.00,9.00,0.00,100,0.05
+WB910,Chickpea and Vegetable Stir Fry,Vegetarian,310,40.00,20.00,12.00,4.00,8.00,0.00,100,0.06
+MA880,Vegetable and Lentil Stew,Vegetarian,270,40.00,18.00,8.00,4.00,7.00,0.00,100,0.07
+SID1130,Spicy Tofu with Vegetables,Vegetarian,320,40.00,18.00,14.00,5.00,9.00,0.00,100,0.06
+WB920,Grilled Chicken with Vegetables,Non-Vegetarian,350,30.00,35.00,18.00,5.00,7.00,80.00,100,0.09
+MA890,Vegetable Curry with Brown Rice,Vegetarian,290,45.00,15.00,12.00,5.00,8.00,0.00,100,0.05
+SID1140,Vegetable Biryani with Raita,Vegetarian,350,45.00,18.00,14.00,5.00,8.00,0.00,100,0.05
+WB930,Tofu and Vegetable Stir Fry,Vegetarian,320,40.00,20.00,12.00,5.00,9.00,0.00,100,0.06
+MA900,Chickpea and Cauliflower Soup,Vegetarian,270,40.00,15.00,10.00,4.00,7.00,0.00,100,0.06
+SID1150,Grilled Chicken with Salad,Non-Vegetarian,350,25.00,30.00,15.00,4.00,6.00,80.00,100,0.09
+WB940,Chickpea and Tomato Curry,Vegetarian,290,40.00,18.00,10.00,4.00,8.00,0.00,100,0.06
+MA910,Grilled Tofu with Vegetables,Vegetarian,320,40.00,20.00,14.00,5.00,8.00,0.00,100,0.06
+SID1160,Vegetable Soup with Brown Rice,Vegetarian,270,40.00,18.00,8.00,4.00,7.00,0.00,100,0.07
+WB950,Vegetable and Paneer Curry,Vegetarian,320,40.00,25.00,18.00,5.00,8.00,40.00,100,0.08
+MA920,Spinach and Tofu Salad,Vegetarian,280,35.00,18.00,12.00,4.00,7.00,0.00,100,0.06
+SID1170,Grilled Fish with Salad,Non-Vegetarian,380,30.00,35.00,15.00,5.00,7.00,80.00,100,0.09
+WB960,Vegetable and Tofu Stir Fry,Vegetarian,330,40.00,20.00,14.00,5.00,8.00,0.00,100,0.06
+MA930,Chickpea and Kale Soup,Vegetarian,270,35.00,18.00,8.00,4.00,7.00,0.00,100,0.07
+SID1180,Avocado and Quinoa Salad,Vegetarian,350,45.00,18.00,14.00,5.00,9.00,0.00,100,0.05
+WB970,Grilled Tofu with Mixed Vegetables,Vegetarian,300,35.00,20.00,12.00,5.00,7.00,0.00,100,0.07
+MA940,Vegetable Stew with Tofu,Vegetarian,280,40.00,15.00,10.00,4.00,7.00,0.00,100,0.05
